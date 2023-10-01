@@ -18,6 +18,8 @@ Images/model1_acc_loss.png
   - [Emotinality non-functional requirements](#emotinality-non-functional-requirements)
   - [Emotionality database description](#emotionality-database-description)
   - [Stakeholders common views](#stakeholders-common-views)
+  - [Team leader system functionalities](#team-leader-system-functionalities)
+  - [Team member system functionalities](#team-leader-system-functionalities)
 
 
 
@@ -322,11 +324,112 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 <img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_CW_actions.png" alt="Results consolidation with cognitive walkthrough." width="30%">
 <img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_actions.png" alt="Results consolidation with usability smells." width="30%">
 
+## Team leader system functionalities
+
+**Project Update on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/project_edit.png" alt="Project Update on the Final Website" width="30%">
+
+**Project Creation on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/project_create.png" alt="Project Creation on the Final Website" width="30%">
+
+**Project Management on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/projects.png" alt="Project Management on the Final Website" width="30%">
+
+**Uploading the Usability Test on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/usability_test_upload.png" alt="Uploading the Usability Test on the Final Website" width="30%">
+
+**Usability Tests on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/usability_tests.png" alt="Usability Tests on the Final Website" width="30%">
+
+**Uploading Usability Test on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/update_video.png" alt="Uploading Usability Test on the Final Website" width="30%">
+
+**Usability Test Split into Tasks on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/split_video_tasks.png" alt="Usability Test Split into Tasks on the Final Website" width="30%">
+
+**Uploading Usability Test Task on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/edit_task.png" alt="Uploading Usability Test Task on the Final Website" width="30%">
+
+**Delete Usability Test Task on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/tasks.png" alt="Delete Usability Test Task on the Final Website" width="30%">
+
+**Usability Smells on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/usability_smells.png" alt="Usability Smells on the Final Website" width="30%">
+
+**Create Usability Smell on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/create_usability_smell.png" alt="Create Usability Smell on the Final Website" width="30%">
+
+**Edit Usability Smell on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/edit_usability_smell.png" alt="Edit Usability Smell on the Final Website" width="30%">
+
+**Project Invitations on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/invitations.png" alt="Project Invitations on the Final Website" width="30%">
+
+**Create Project Invitations on the Final Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/create_invitation.png" alt="Create Project Invitations on the Final Website" width="30%">
+
+**Managing Permissions for Team Leaders to Consolidate Results**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/permissions_results_cons.png" alt="Managing Permissions for Team Leaders to Consolidate Results" width="30%">
+
+**Viewing of Team Members' Work Progress by the Team Leader**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_cons_progress.png" alt="Viewing of Team Members' Work Progress by the Team Leader" width="30%">
+
+**Usability Tests Results by Team Members**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_consolidation.png" alt="Usability Tests Results by Team Members" width="30%">
+
+**Cumulative Frequency of Facial Emotions and the Distribution of Facial Emotions**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_ind.png" alt="Cumulative Frequency of Facial Emotions and the Distribution of Facial Emotions" width="30%">
+
+**Export All Results in .CSV Format by Selecting the Type of User Usability Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_consolidados_download.png" alt="Export All Results in .CSV Format by Selecting the Type of User Usability Website" width="30%">
+
+**Consolidated Usability Evaluations (Focus on the Usability Problems Found)**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_num_usab_prob.png" alt="Consolidated Usability Evaluations (Focus on the Usability Problems Found)" width="30%">
+
+**Quantitative End-Results from the Consolidated Results**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_consolidados.png" alt="Quantitative End-Results from the Consolidated Results" width="30%">
+
+**Export Overall Results in .CSV Format by Selecting the Type of User Usability Website**
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_consolidados_download1.png" alt="Export Overall Results in .CSV Format by Selecting the Type of User Usability Website" width="30%">
 
 
+## Team member system functionalities
 
+**Navbar before the team member has logged in**
+<img src="./Images/CONCLUSIONS_WEBSITE/TM/TM_navbar.png" alt="Navbar before the team member has logged in" width="30%">
 
+**Navbar after the team member has logged in**
+<img src="./Images/CONCLUSIONS_WEBSITE/TM/TM_navbar_less.png" alt="Navbar after the team member has logged in" width="30%">
 
+**Team member project invitations**
+<img src="./Images/CONCLUSIONS_WEBSITE/TM/tm_invitations.png" alt="Team member project invitations" width="30%">
+
+**Team member usability evaluation methods choice**
+<img src="./Images/CONCLUSIONS_WEBSITE/TM/usability_eval_methods.png" alt="Team member usability evaluation methods choice" width="15%">
+
+**Progress of each task evaluated**
+<img src="./Images/CONCLUSIONS_WEBSITE/TM/usability_eval_progress.png" alt="Progress of each task evaluated" width="30%">
+
+**Usability evaluation using CW**
+<img src="./Images/CONCLUSIONS_WEBSITE/TM/TM_CW_eval_task.png" alt="Usability evaluation using CW" width="30%">
+
+**Usability evaluation using usability smells**
+<img src="./Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_eval.png" alt="Usability evaluation using usability smells" width="30%">
+
+**Usability evaluation results using CW**
+<img src="./Images/CONCLUSIONS_WEBSITE/TM/con_results_CW_eval.png" alt="Usability evaluation results using CW" width="30%">
+
+**Usability evaluation results using usability smells**
+<img src="./Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_eval.png" alt="Usability evaluation results using usability smells" width="30%">
+
+**Consolidation of results using CW between team members**
+<img src="./Images/CONCLUSIONS_WEBSITE/TM/con_results_CW.png" alt="Consolidation of results using CW between team members" width="30%">
+
+**Consolidation of results using usability smells between team members**
+<img src="./Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells.png" alt="Consolidation of results using usability smells between team members" width="30%">
+
+**The Emotionality Tool performance scores**
+<img src="./Images/CONCLUSIONS_WEBSITE/final_performance.png" alt="The Emotionality Tool performance scores" width="24%">
 
 
 
