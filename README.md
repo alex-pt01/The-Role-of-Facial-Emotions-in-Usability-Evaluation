@@ -11,9 +11,10 @@ Images/model1_acc_loss.png
   - [Database description](#database-description)
   - [Examples](#examples)
 - [The Emotionality Tool](#the-emotionality-tool)
-  - [Common to All Stakeholders](#common-to-all-stakeholders)
-  - [Team Leader Functional Requirements](#team-leader-functional-requirements)
-  - [Team Member Functional Requirements](#team-member-functional-requirements)
+  - [Emotinality Functional requirements](#emotinality-functional-requirements)
+    - [Common to All Stakeholders](#common-to-all-stakeholders)
+    - [Team Leader Functional Requirements](#team-leader-functional-requirements)
+    - [Team Member Functional Requirements](#team-member-functional-requirements)
 
 
 
