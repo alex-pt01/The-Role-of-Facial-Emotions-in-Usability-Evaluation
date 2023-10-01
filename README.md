@@ -107,83 +107,86 @@ These entities collectively form the structure of the system's database, facilit
 
 **User Testing Website Navbar**
 
-<img src="Images/USER_TESTING/user_testing_navbar.png" alt="User testing website navbar before the user has logged in." width="25%">
-<img src="Images/USER_TESTING/user_testing_navbar_pos_login.png" alt="User testing website navbar after the user has logged in." width="25%">
+<img src="Images/USER_TESTING/user_testing_navbar.png" alt="User testing website navbar before the user has logged in." width="35%">
+<img src="Images/USER_TESTING/user_testing_navbar_pos_login.png" alt="User testing website navbar after the user has logged in." width="35%">
 
 
 **User Testing Website Signup**
 
-<img src="Images/USER_TESTING/UTW_signup.png" alt="User testing website type A and B user register." width="25%">
+<img src="Images/USER_TESTING/UTW_signup.png" alt="User testing website type A and B user register." width="35%">
 
 
 **User Testing Website Signin**
 
-<img src="Images/USER_TESTING/UTW_signin.png" alt="User testing website type A and B user authentication." width="25%">
+<img src="Images/USER_TESTING/UTW_signin.png" alt="User testing website type A and B user authentication." width="35%">
 
 
 **User Testing Website Account Update**
 
-<img src="Images/USER_TESTING/UTW_account.png" alt="User testing website type A update account." width="25%">
+<img src="Images/USER_TESTING/UTW_account.png" alt="User testing website type A update account." width="35%">
 
 
 **User Testing Website Type B Account Update**
 
-<img src="Images/USER_TESTING/UTW_US_account.png" alt="User testing website type B update account." width="25%">
+<img src="Images/USER_TESTING/UTW_US_account.png" alt="User testing website type B update account." width="35%">
 
 
 **Product Search on User Testing Website**
 
-<img src="Images/USER_TESTING/UTW_search.png" alt="Search for products in the search bar on the User testing website type A and B." width="25%">
+<img src="Images/USER_TESTING/UTW_search.png" alt="Search for products in the search bar on the User testing website type A and B." width="35%">
 
 
 **Advanced Product Search on User Testing Website**
 
-<img src="Images/USER_TESTING/UTW_search_.png" alt="Search for products by price range, categories, products in stock, new, used or in the promotion and by seller type in the User testing website type A and B." width="25%">
+<img src="Images/USER_TESTING/UTW_search_.png" alt="Search for products by price range, categories, products in stock, new, used or in the promotion and by seller type in the User testing website type A and B." width="35%">
 
 
 **Incomplete Product Search on User Testing Website Type B**
 
-<img src="Images/USER_TESTING/UTW_US_search.png" alt="Incomplete product search on User testing website type B." width="25%">
+<img src="Images/USER_TESTING/UTW_US_search.png" alt="Incomplete product search on User testing website type B." width="35%">
 
 
 **Add Product to Cart**
 
-<img src="Images/USER_TESTING/UTW_add_prod_cart.png" alt="Option to add the product to cart on the User testing website type A and B." width="25%">
+<img src="Images/USER_TESTING/UTW_add_prod_cart.png" alt="Option to add the product to cart on the User testing website type A and B." width="35%">
 
 
 **Perform Product Purchase Checkout**
 
-<img src="Images/USER_TESTING/shoppingCart_check_out.png" alt="Performing product purchase checkout on the User testing website type A and B." width="25%">
+<img src="Images/USER_TESTING/shoppingCart_check_out.png" alt="Performing product purchase checkout on the User testing website type A and B." width="35%">
 
 
 **Fill in Payment Details**
 
-<img src="Images/USER_TESTING/payment.png" alt="Filling in the data required to pay for the purchase on the User testing website type A and B." width="25%">
+<img src="Images/USER_TESTING/payment.png" alt="Filling in the data required to pay for the purchase on the User testing website type A and B." width="35%">
 
 
 **Payment Method Verification**
 
-<img src="Images/USER_TESTING/payment_verification.png" alt="Payment method verification on the User testing website type A and B." width="25%">
+<img src="Images/USER_TESTING/payment_verification.png" alt="Payment method verification on the User testing website type A and B." width="35%">
 
 
 **Fill out a Review on the User Testing Website**
 
-<img src="Images/USER_TESTING/UTW_review.png" alt="Form for filling out a user testing website type A and B review." width="25%">
+<img src="Images/USER_TESTING/UTW_review.png" alt="Form for filling out a user testing website type A and B review." width="35%">
 
 
 **Fill out a Review on User Testing Website Type A**
 
-<img src="Images/USER_TESTING/UTW_review.png" alt="Form for filling out a user testing website type A review." width="25%">
+<img src="Images/USER_TESTING/UTW_review.png" alt="Form for filling out a user testing website type A review." width="35%">
 
 
 **Fill out a Review on User Testing Website Type B**
 
-<img src="Images/USER_TESTING/review_UP.png" alt="Form for filling out a user testing website type B review." width="25%">
+<img src="Images/USER_TESTING/review_UP.png" alt="Form for filling out a user testing website type B review." width="35%">
 
 
 **Go to Wrong Page/Misleading Link" Issue on User Testing Website Type B**
 
-<img src="Images/USER_TESTING/UTW_US_logout.png" alt="Go to wrong page/Misleading link” usability problem on user testing website B review." width="25%">
+<img src="Images/USER_TESTING/UTW_US_logout.png" alt="Go to wrong page/Misleading link” usability problem on user testing website B review." width="35%">
+
+
+
 
 
 
