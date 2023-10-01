@@ -303,22 +303,22 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 - **ResultsConsolidation:** A model representing the consolidation of all results from CW and Usability Smells evaluations, both with and without emotions.
 
 
-## Stakeholders common views
+## Stakeholders common views**
 
-## Navbar Before Team Leader Login
+**Navbar Before Team Leader Login**
 <img src="Images/CONCLUSIONS_WEBSITE/TL/TL_navbar.png" alt="Navbar Before Team Leader Login" width="30%">
 <img src="Images/CONCLUSIONS_WEBSITE/TL/TL_navbar_less.png" alt="Navbar After Team Leader Login" width="30%">
 
-## Team Leader Signup
+**Team Leader Signup**
 <img src="Images/CONCLUSIONS_WEBSITE/TL/signup.png" alt="Team Leader Signup" width="30%">
 
-## Team Leader Sign in
+**Team Leader Sign in**
 <img src="Images/CONCLUSIONS_WEBSITE/TL/login.png" alt="Team Leader Sign in" width="30%">
 
-## Team Leader Account Update
+**Team Leader Account Update**
 <img src="Images/CONCLUSIONS_WEBSITE/TL/TL_account.png" alt="Team Leader Account Update" width="30%">
 
-## Results consolidation
+**Results consolidation**
 <img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_CW_actions.png" alt="Results consolidation with cognitive walkthrough." width="30%">
 <img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_actions.png" alt="Results consolidation with usability smells." width="30%">
 
