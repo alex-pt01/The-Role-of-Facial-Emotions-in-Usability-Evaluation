@@ -126,6 +126,7 @@ These entities collectively form the structure of the system's database, facilit
 <img src="Images/model5_acc_loss.png" alt="Adaptation System Test 4" width="50%">
 <img src="Images/model5_conf_matrix.png" alt="Adaptation System Test 5" width="50%">
 
+
 ## Figure 5: MODEL 6
 <img src="Images/model6_acc_loss.png" alt="Adaptation System Test 4" width="50%">
 <img src="Images/model6_conf_matrix.png" alt="Adaptation System Test 5" width="50%">
