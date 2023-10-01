@@ -9,6 +9,7 @@ Images/model1_acc_loss.png
   - [Functional requirements](#functional-requirements)
   - [Usability Smells](#usability-smells)
   - [Database description](#database-description)
+  - [System's example](#system's-example)
 
 ## User Testing Websites
 To enhance the integration of strategic usability problems into a testable system, we've developed two websites, collectively named "TechIST," for buying and selling tech products. These sites, User Testing Website A and User Testing Website B differ in usability design. The development code for both websites can be found in the User Testing Websites folder in google drive.
@@ -101,6 +102,8 @@ The database consists of the following entities:
 - **Payment:** The Payment model represents payment details, including address, total amount, available credits (if applicable), and payment date. It is associated with the PaymentMethod template.
 
 These entities collectively form the structure of the system's database, facilitating the organization and management of data for the user testing website.
+
+## System's example
 
 
 
