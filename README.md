@@ -16,6 +16,7 @@ Images/model1_acc_loss.png
     - [Team Leader Functional Requirements](#team-leader-functional-requirements)
     - [Team Member Functional Requirements](#team-member-functional-requirements)
   - [Emotinality non-functional requirements](#emotinality-non-functional-requirements)
+  - [Emotionality database description](#emotionality-database-description)
 
 
 
@@ -284,7 +285,21 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 - **Security:** The system should be secure, with measures to protect user data and prevent unauthorized access or attacks, such as SSL encryption.
 - **Usability:** The system should prioritize usability, providing a user-friendly experience for individuals with varying levels of technical proficiency. It should feature an intuitive and well-organized interface, ensuring ease of navigation and smooth user interaction.
 
+## Emotionality database description
 
+- **TeamLeader:** A model that extends the built-in Django User model to represent a project leader.
+- **TeamMember:** A model that extends the built-in Django User model to represent a project member.
+- **Project:** A model representing a project, led by a team leader and involving multiple team members. It encompasses attributes such as name, description, start and end dates, and a reference to the leading team leader.
+- **UsabilitySmells:** A model representing usability smells identified for a specific project. It includes a reference to the corresponding project and a description.
+- **HeuristicEvaluation:** A model representing the results of a heuristic evaluation conducted on the project. It includes a reference to the associated project and a description of the evaluation.
+- **Video:** A template representing a video recording of a usability test. It includes a reference to the relevant project, usability test name, user type, \ac{UID}, location, and multiple video files.
+- **Invitations:** A template representing invitations sent to team members to join a project. It includes references to the project and team members involved, along with a boolean field indicating the acceptance status of the invitation.
+- **ResultsConsolidation Permission:** A model representing the authorization granted for consolidating usability test results. It includes a reference to the corresponding video and a boolean field indicating whether authorization was given.
+- **SubVideoTask:** A model representing a subtask performed by a team member during a usability test. It includes a reference to the associated video and detailed information about the subtask, such as task number, task name, performed actions, and a reference to the UsabilitySmells model.
+- **SubVideoTaskEmotionsPlot:** A model representing the user's emotional state during the subtask. It includes a reference to the corresponding SubVideoTask and the plot data.
+- **UsabilityEval_CW_Smells_Emotion:** A model representing the results of a usability evaluation of the subtask considering emotions. It includes a reference to the associated subtask, the team member who conducted the evaluation, and the evaluation results, including answers to questions and selected usability smells.
+- **UsabilityEval_CW_Smells_without_Emotion:** A model representing the results of a usability evaluation of the subtask without considering emotions. It includes a reference to the corresponding subtask, the team member who conducted the evaluation, and the evaluation results, including answers to questions and selected usability smells.
+- **ResultsConsolidation:** A model representing the consolidation of all results from \ac{CW} and Usability Smells evaluations, both with and without emotions.
 
 
 
