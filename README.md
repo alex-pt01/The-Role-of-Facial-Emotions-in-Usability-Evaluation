@@ -10,6 +10,13 @@ Images/model1_acc_loss.png
   - [Usability Smells](#usability-smells)
   - [Database description](#database-description)
   - [Examples](#examples)
+- [The Emotionality Tool](#the-emotionality-tool)
+  - [Common to All Stakeholders](#common-to-all-stakeholders)
+  - [Team Leader Functional Requirements](#team-leader-functional-requirements)
+  - [Team Member Functional Requirements](#team-member-functional-requirements)
+
+
+
 
 ## User Testing Websites
 To enhance the integration of strategic usability problems into a testable system, we've developed two websites, collectively named "TechIST," for buying and selling tech products. These sites, User Testing Website A and User Testing Website B differ in usability design. The development code for both websites can be found in the User Testing Websites folder in google drive.
@@ -186,10 +193,82 @@ These entities collectively form the structure of the system's database, facilit
 <img src="Images/USER_TESTING/UTW_US_logout.png" alt="Go to wrong page/Misleading link” usability problem on user testing website B review." width="35%">
 
 
+## The Emotionality Tool
 
+The Emotionality Tool was developed to address the absence of a comprehensive and freely available system for evaluating the usability of user testing websites, aligning with the objectives of this master's thesis focused on investigating the role of facial emotions in usability assessment. This tool offers functionalities for loading, storing, and extracting insights from pairs of videos recorded during usability tests. These video pairs include a webcam recording capturing the user's facial expressions and a monitor recording capturing the user's interactions with the target system. This dissertation provides a thorough exploration of the stakeholders, requirements, architecture, and potential of "The Emotionality Tool" system in fulfilling its intended purpose.
 
+## Common to All Stakeholders
 
+- **User Registration (REQ-1):** The system must provide a user registration feature with fields for first name, last name, email address, and password. It should differentiate between team leaders and team members.
+- **User Authentication (REQ-2):** Users should be able to log in with their registered email and password. The system must validate credentials and show appropriate error messages for incorrect login information.
+- **Update User Account (REQ-3):** Users should have the ability to securely update their personal data, including name, email, and password.
+- **Logout (REQ-4):** The system must include a secure logout functionality.
 
+## Team Leader Functional Requirements
+
+- **Project Management (REQ-6)**
+  - **Create Project Data (REQ-6.1):** Allow the creation of new projects with specified details.
+  - **Read Project Data (REQ-6.2):** Present project data in a readable format and provide filtering options.
+  - **Update Project Data (REQ-6.3):** Enable editing of project details.
+  - **Delete Project Data (REQ-6.4):** Allow deletion of projects based on filtering criteria.
+
+- **Project Data Management (REQ-7)**
+  - **Upload Usability Testing Data (REQ-7.1):** Provide functionality to upload usability testing data, including webcam and screen recordings, usability testing name, user type, user ID, and location.
+  - **Usability Testing Data Storage (REQ-7.2):** Store screen recordings and facial emotion data securely and anonymously.
+  - **Read Usability Testing Data (REQ-7.3):** Present usability testing data in an organized format with filtering options.
+  - **Update Usability Testing Data (REQ-7.4):** Allow editing of usability testing data.
+  - **Delete Usability Testing Data (REQ-7.5):** Enable deletion of usability testing data based on filtering criteria.
+  - **Split Usability Testing Data (REQ-7.6):** Allow the splitting of screen recordings into task-based sub-videos.
+  - **Update Usability Testing Data (Split) (REQ-7.7):** Allow editing of split usability testing data.
+  - **Delete Usability Testing Data (Split) (REQ-7.8):** Enable deletion of split usability testing data.
+  - **Create Usability Smells (REQ-7.9):** Provide functionality to create usability smells with names and descriptions.
+  - **Read Usability Smells (REQ-7.10):** Present usability smells data in an organized format with filtering options.
+  - **Update Usability Smells (REQ-7.11):** Allow editing of usability smells.
+  - **Delete Usability Smells (REQ-7.12):** Enable deletion of usability smells based on filtering criteria.
+    
+- **Project Invitations (REQ-8)**
+  - **Create Project Invitation (REQ-8.1):** Allow the creation of project invitations for team members.
+  - **Read Project Invitation (REQ-8.2):** Present project invitations in a readable format with filtering options.
+  - **Delete Project Invitation (REQ-8.3):** Enable the deletion of project invitations based on filtering criteria.
+  
+- **Conclusions (REQ-9)**
+  - **Permission to Consolidate Usability Testing Results (REQ-9.1):** Display usability evaluation progress and provide a button for consolidating results.
+  - **Read Team Members' Usability Testing Results (REQ-9.2):** Present usability evaluation progress and allow the selection of usability tests for viewing.
+  - **Read Usability Testing Results (REQ-9.3):** Display cumulative facial emotion data and consolidated usability testing results.
+  - **Search Usability Testing Results (REQ-9.4):** Allow filtering of usability testing results.
+  - **Usability Testing Results Data Export (REQ-9.5):** Provide functionality to export usability testing results in CSV format.
+  - **Read Team Members' Overall Usability Testing Results (REQ-9.6):** Display quantitative end results from consolidated results.
+  - **Search Overall Usability Testing Results (REQ-9.7):** Allow filtering of overall usability testing results.
+  - **Overall Usability Testing Results Data Export (REQ-9.8):** Enable the export of overall usability testing results in CSV format.
+
+## Team Member Functional Requirements
+
+- **Project Invitations (REQ-10)**
+  - **Read Project Invitation (REQ-10.1):** Present project invitations in a readable format with filtering options.
+  - **Accept Project Invitation (REQ-10.2):** Allow team members to accept project invitations.
+    
+- **Usability Evaluation Projects (REQ-11)**
+  - **Access to Usability Evaluation Methods for Each Project (REQ-11.1):** Display projects and usability evaluation methods in the navigation bar.
+  - **Read Usability Tests (REQ-11.2):** Present usability test data and progress.
+  
+- **Usability Evaluation with CW (REQ-11.3):**
+  - **Read Tasks-Based Usability Testing (REQ-11.3.1):** Display information about tasks and usability evaluation status.
+  - **Evaluate Task-Based Usability Testing (REQ-11.3.2):** Present actions and fields for evaluating tasks with CW questions.
+ 
+- **Usability Evaluation with Usability Smells (REQ-11.4):**
+  - **Read Tasks-Based Usability Testing (REQ-11.4.1):** Display information about tasks and usability evaluation status.
+  - **Evaluate Task-Based Usability Testing (REQ-11.4.2):** Provide a list of usability smells and fields for evaluation.
+  - **Usability Testing Results from Consolidation (REQ-12)**
+
+- **Usability Evaluation with CW (REQ-12.1):**
+  - **Read Usability Tests (REQ-12.1.1):** Display usability test information, including permission for consolidation.
+  - **Read Tasks-Based Usability Testing (REQ-12.1.2):** Display task information and usability evaluation initiation.
+  - **Usability Testing Results Consolidation (REQ-12.1.3):** Present actions and fields for consolidating usability testing results.
+    
+- **Usability Evaluation with Usability Smells (REQ-12.2):**
+  - **Read Usability Tests (REQ-12.2.1):** Display usability test information, including permission for consolidation.
+  - **Read Tasks-Based Usability Testing (REQ-12.2.2):** Display task information and usability evaluation initiation.
+  - **Evaluate Task-Based Usability Testing (REQ-12.2.3):** Provide a list of usability smells and fields for evaluation.
 
 
 
