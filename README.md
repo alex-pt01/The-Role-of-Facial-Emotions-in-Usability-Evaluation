@@ -34,7 +34,7 @@ The functional requirements specified below are applicable to both User Testing 
 
 - **Products (REQ-5):**
   - **Search Functionality (REQ-5.1):**
-    - The system should provide users with a search functionality that allows them to search for products using a search bar. Additionally, users should be able to filter search results based on price range, categories, products in stock, new or used items, items on sale, and by the type of seller.
+    - The system should provide users with a search functionality that allows them to search for products using a search bar. Additionally, users should be able to filter search results based on price range, categories, products in stock, new or used items, items on sale, and the type of seller.
 
   - **Read Project Data (REQ-5.2):**
     - The system should offer a well-organized and easily searchable product catalog. This catalog should enable users to browse through available products, providing detailed product descriptions and options for purchase.
@@ -61,6 +61,12 @@ The functional requirements specified below are applicable to both User Testing 
 - **Review (REQ-7):**
   - **Add Website Reviews (REQ-7.1):**
     - The system should provide users with the ability to add reviews about the website. Users should be able to enter their username, user email, a description of their review, and a rating. This feature allows users to share their feedback and experiences with the website, contributing to the overall assessment and evaluation of its performance.
+
+
+
+
+
+
 
 
 ## Figure 1: MODEL 1
