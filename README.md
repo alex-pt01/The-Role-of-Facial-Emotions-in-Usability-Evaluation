@@ -11,7 +11,7 @@ Images/model1_acc_loss.png
   - [Database description](#database-description)
   - [Examples](#examples)
 - [The Emotionality Tool](#the-emotionality-tool)
-  - [Emotinality Functional requirements](#emotinality-functional-requirements)
+  - [Emotinality functional requirements](#emotinality-functional-requirements)
     - [Common to All Stakeholders](#common-to-all-stakeholders)
     - [Team Leader Functional Requirements](#team-leader-functional-requirements)
     - [Team Member Functional Requirements](#team-member-functional-requirements)
@@ -24,7 +24,7 @@ To enhance the integration of strategic usability problems into a testable syste
 
 User Testing Website A was created without intentional usability problems, while User Testing Website B was intentionally designed with strategic usability issues. These websites serve as a controlled environment for user testing, enabling a detailed comparative analysis of user experiences and the effects of strategic usability problems on interactions and overall satisfaction.
 
-## Functional Requirements
+### Functional Requirements
 
 The functional requirements specified below are applicable to both User Testing Website A and User Testing Website B.
 
@@ -70,7 +70,7 @@ The functional requirements specified below are applicable to both User Testing 
   - **Add Website Reviews (REQ-7.1):**
     - The system should provide users with the ability to add reviews about the website. Users should be able to enter their username, user email, a description of their review, and a rating. This feature allows users to share their feedback and experiences with the website, contributing to the overall assessment and evaluation of its performance.
 
-## Usability Smells
+### Usability Smells
 
 The following list outlines the usability smells that were utilized for evaluation purposes:
 
@@ -90,7 +90,7 @@ The following list outlines the usability smells that were utilized for evaluati
 
 - **Click action unresponsive element:** This usability smell occurs when users click on an element or perform an action, but the system or interface does not respond as expected or fails to provide feedback. Unresponsive elements can confuse users and give the impression that the system is unresponsive or malfunctioning. A lack of visual or interactive feedback can lead to uncertainty and affect the user's perception of the system's usability.
 
-## Database description
+### Database description
 The database consists of the following entities:
 
 - **ShoppingCartItem:** This entity represents an item in the shopping cart. It includes an attribute for the quantity of the product and a reference to the Product model.
@@ -111,7 +111,7 @@ The database consists of the following entities:
 
 These entities collectively form the structure of the system's database, facilitating the organization and management of data for the user testing website.
 
-## Examples
+### Examples
 
 **User Testing Website Navbar**
 
@@ -197,15 +197,16 @@ These entities collectively form the structure of the system's database, facilit
 ## The Emotionality Tool
 
 The Emotionality Tool was developed to address the absence of a comprehensive and freely available system for evaluating the usability of user testing websites, aligning with the objectives of this master's thesis focused on investigating the role of facial emotions in usability assessment. This tool offers functionalities for loading, storing, and extracting insights from pairs of videos recorded during usability tests. These video pairs include a webcam recording capturing the user's facial expressions and a monitor recording capturing the user's interactions with the target system. This dissertation provides a thorough exploration of the stakeholders, requirements, architecture, and potential of "The Emotionality Tool" system in fulfilling its intended purpose.
+## Emotinality functional requirements
 
-## Common to All Stakeholders
+### Common to All Stakeholders
 
 - **User Registration (REQ-1):** The system must provide a user registration feature with fields for first name, last name, email address, and password. It should differentiate between team leaders and team members.
 - **User Authentication (REQ-2):** Users should be able to log in with their registered email and password. The system must validate credentials and show appropriate error messages for incorrect login information.
 - **Update User Account (REQ-3):** Users should have the ability to securely update their personal data, including name, email, and password.
 - **Logout (REQ-4):** The system must include a secure logout functionality.
 
-## Team Leader Functional Requirements
+### Team Leader Functional Requirements
 
 - **Project Management (REQ-6)**
   - **Create Project Data (REQ-6.1):** Allow the creation of new projects with specified details.
@@ -242,7 +243,7 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
   - **Search Overall Usability Testing Results (REQ-9.7):** Allow filtering of overall usability testing results.
   - **Overall Usability Testing Results Data Export (REQ-9.8):** Enable the export of overall usability testing results in CSV format.
 
-## Team Member Functional Requirements
+### Team Member Functional Requirements
 
 - **Project Invitations (REQ-10)**
   - **Read Project Invitation (REQ-10.1):** Present project invitations in a readable format with filtering options.
