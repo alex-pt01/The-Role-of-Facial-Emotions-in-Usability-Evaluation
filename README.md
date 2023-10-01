@@ -82,7 +82,7 @@ The following list outlines the usability smells that were utilized for evaluati
 - **Click action unresponsive element:** This usability smell occurs when users click on an element or perform an action, but the system or interface does not respond as expected or fails to provide feedback. Unresponsive elements can confuse users and give the impression that the system is unresponsive or malfunctioning. A lack of visual or interactive feedback can lead to uncertainty and affect the user's perception of the system's usability.
 
 ## Database description
-. The database consists of the following entities:
+The database consists of the following entities:
 
 - **ShoppingCartItem:** This entity represents an item in the shopping cart. It includes an attribute for the quantity of the product and a reference to the Product model.
 
