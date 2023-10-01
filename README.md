@@ -8,6 +8,7 @@ Images/model1_acc_loss.png
 - [User Testing Websites](#user-testing-websites)
   - [Functional requirements](#functional-requirements)
   - [Usability Smells](#usability-smells)
+  - [Database description](#database-description)
 
 ## User Testing Websites
 To enhance the integration of strategic usability problems into a testable system, we've developed two websites, collectively named "TechIST," for buying and selling tech products. These sites, User Testing Website A and User Testing Website B differ in usability design. The development code for both websites can be found in the User Testing Websites folder in google drive.
@@ -64,8 +65,6 @@ The functional requirements specified below are applicable to both User Testing 
 
 The following list outlines the usability smells that were utilized for evaluation purposes:
 
-
-
 - **No client validation:** This usability smell refers to the absence of validation checks on the client side when inputting data into forms. Without proper client validation, users may submit incorrect or incomplete information, leading to errors or difficulties down the line. For example, if a form does not validate email addresses or requires specific formats for certain inputs but does not provide feedback or error messages, users may encounter issues when submitting the form. 
 
 - **Late validation:** refers to a usability smell where validation checks for user inputs or actions occur after a significant delay or at a later stage in the process. Instead of providing immediate feedback on errors or invalid inputs, the system waits until later in the user flow to validate the information. This can lead to confusion and frustration for users as they may not be aware of their mistakes until they have progressed further in the process.
@@ -82,7 +81,30 @@ The following list outlines the usability smells that were utilized for evaluati
 
 - **Click action unresponsive element:** This usability smell occurs when users click on an element or perform an action, but the system or interface does not respond as expected or fails to provide feedback. Unresponsive elements can confuse users and give the impression that the system is unresponsive or malfunctioning. A lack of visual or interactive feedback can lead to uncertainty and affect the user's perception of the system's usability.
 
+## Database description
+. The database consists of the following entities:
 
+- **ShoppingCartItem:** This entity represents an item in the shopping cart. It includes an attribute for the quantity of the product and a reference to the Product model.
+
+- **Product:** The Product model represents a technology product and includes attributes such as name, price, description, image, quantity, stock, brand, category, creation date, condition (new or used), and seller information. It is associated with the ShoppingCartItem template.
+
+- **Promotion:** The Promotion template represents a product promotion and includes attributes like name, discount, description, and deadline. It is linked to the Product model.
+
+- **Sold:** This model represents sold products and includes attributes for quantity, seller information, total amount, and the sale date. It has a reference to the Product model.
+
+- **Comment:** The Comment model stores comments made by users on specific products. It includes attributes for description, rating, and the posting date. It is associated with the Product model.
+
+- **PaymentMethod:** This model represents payment methods used to finalize product purchases. It includes attributes for card type and number.
+
+- **ShoppingCart:** The ShoppingCart model contains the ID of the ShoppingCartItem model.
+
+- **Payment:** The Payment model represents payment details, including address, total amount, available credits (if applicable), and payment date. It is associated with the PaymentMethod template.
+
+These entities collectively form the structure of the system's database, facilitating the organization and management of data for the user testing website.
+
+
+
+## Functional Requirements
 
 
 ## Figure 1: MODEL 1
