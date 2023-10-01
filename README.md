@@ -6,15 +6,61 @@ Images/model1_acc_loss.png
 ## Índice
 
 - [User Testing Websites](#user-testing-websites)
-  - [Objetivos](#objetivos)
+  - [Functional requirements](#functional-requirements)
 
 
 ## User Testing Websites
+To enhance the integration of strategic usability problems into a testable system, we've developed two websites, collectively named "TechIST," for buying and selling tech products. These sites, User Testing Website A and User Testing Website B, differ in usability design.
 
-Esta seção pode conter informações detalhadas sobre o seu projeto.
+User Testing Website A was created without intentional usability problems, while User Testing Website B was intentionally designed with strategic usability issues. These websites serve as a controlled environment for user testing, enabling a detailed comparative analysis of user experiences and the effects of strategic usability problems on interactions and overall satisfaction.
 
-### Objetivos
-## Sobre o Projeto
+### Functional requirements
+
+## Functional Requirements
+
+The functional requirements specified below are applicable to both User Testing Website A and User Testing Website B.
+
+- **User Registration (REQ-1):**
+  - The system should provide a registration feature that allows users to create an account by providing their first name, last name, email address, and a password that meets specific requirements such as minimum length and complexity. Additionally, the system should differentiate between team leaders and team members during the registration process.
+
+- **User Authentication (REQ-2):**
+  - The system must enable users to log in to their accounts using their username and password. The system should validate both the username and password entered by the user and display appropriate error messages if the login information is incorrect (e.g., incorrect email or password).
+
+- **Update User Account (REQ-3):**
+  - Users should have the ability to securely update their personal information within the system. This functionality should allow users to modify their first name, last name, username, email address, and current password.
+
+- **Logout (REQ-4):**
+  - The system must provide a secure logout feature that allows users to log out of their accounts when desired.
+
+- **Products (REQ-5):**
+  - **Search Functionality (REQ-5.1):**
+    - The system should provide users with a search functionality that allows them to search for products using a search bar. Additionally, users should be able to filter search results based on price range, categories, products in stock, new or used items, items on sale, and by the type of seller.
+
+  - **Read Project Data (REQ-5.2):**
+    - The system should offer a well-organized and easily searchable product catalog. This catalog should enable users to browse through available products, providing detailed product descriptions and options for purchase.
+
+- **Shopping Cart (REQ-6):**
+  - **Add Products to Cart (REQ-6.1):**
+    - The system must include a cart system that allows users to add products to their shopping cart for future purchases.
+
+  - **Update Shopping Cart (REQ-6.2):**
+    - Users should have the ability to view and modify the contents of their shopping cart. They should be able to update quantities of items and remove products as needed.
+
+  - **Check Out (REQ-6.3):**
+    - The system must provide users with a checkout feature that allows them to proceed to the payment method once they have completed their shopping.
+
+  - **Payment (REQ-6.4):**
+    - The system should allow users to finalize their purchase by entering payment information, such as payment type, card number, card code, expiration month and year, and address.
+
+  - **Payment Method Verification (REQ-6.5):**
+    - The system must verify that the card number provided consists of sixteen digits and that the card code consists of three digits, ensuring the accuracy and security of the payment process.
+
+  - **Purchase History (REQ-6.6):**
+    - The system should provide users with access to their purchase history, allowing them to review information about all previous purchases made. This information should be easily accessible within the user's account area.
+
+- **Review (REQ-7):**
+  - **Add Website Reviews (REQ-7.1):**
+    - The system should provide users with the ability to add reviews about the website. Users should be able to enter their username, user email, a description of their review, and a rating. This feature allows users to share their feedback and experiences with the website, contributing to the overall assessment and evaluation of its performance.
 
 
 ## Figure 1: MODEL 1
