@@ -198,16 +198,16 @@ These entities collectively form the structure of the system's database, facilit
 
 The Emotionality Tool was developed to address the absence of a comprehensive and freely available system for evaluating the usability of user testing websites, aligning with the objectives of this master's thesis focused on investigating the role of facial emotions in usability assessment. This tool offers functionalities for loading, storing, and extracting insights from pairs of videos recorded during usability tests. These video pairs include a webcam recording capturing the user's facial expressions and a monitor recording capturing the user's interactions with the target system. This dissertation provides a thorough exploration of the stakeholders, requirements, architecture, and potential of "The Emotionality Tool" system in fulfilling its intended purpose.
 
-## Emotinality functional requirements
+### Emotinality functional requirements
 
-### Common to All Stakeholders
+#### Common to All Stakeholders
 
 - **User Registration (REQ-1):** The system must provide a user registration feature with fields for first name, last name, email address, and password. It should differentiate between team leaders and team members.
 - **User Authentication (REQ-2):** Users should be able to log in with their registered email and password. The system must validate credentials and show appropriate error messages for incorrect login information.
 - **Update User Account (REQ-3):** Users should have the ability to securely update their personal data, including name, email, and password.
 - **Logout (REQ-4):** The system must include a secure logout functionality.
 
-### Team Leader Functional Requirements
+#### Team Leader Functional Requirements
 
 - **Project Management (REQ-6)**
   - **Create Project Data (REQ-6.1):** Allow the creation of new projects with specified details.
@@ -244,7 +244,7 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
   - **Search Overall Usability Testing Results (REQ-9.7):** Allow filtering of overall usability testing results.
   - **Overall Usability Testing Results Data Export (REQ-9.8):** Enable the export of overall usability testing results in CSV format.
 
-### Team Member Functional Requirements
+#### Team Member Functional Requirements
 
 - **Project Invitations (REQ-10)**
   - **Read Project Invitation (REQ-10.1):** Present project invitations in a readable format with filtering options.
