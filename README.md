@@ -9,7 +9,7 @@ Images/model1_acc_loss.png
   - [Functional requirements](#functional-requirements)
   - [Usability Smells](#usability-smells)
   - [Database description](#database-description)
-  - [System's example](#system's-example)
+  - [Examples](#examples)
 
 ## User Testing Websites
 To enhance the integration of strategic usability problems into a testable system, we've developed two websites, collectively named "TechIST," for buying and selling tech products. These sites, User Testing Website A and User Testing Website B differ in usability design. The development code for both websites can be found in the User Testing Websites folder in google drive.
@@ -103,53 +103,68 @@ The database consists of the following entities:
 
 These entities collectively form the structure of the system's database, facilitating the organization and management of data for the user testing website.
 
-## System's example
+## Examples
 
 **User Testing Website Navbar**
 <img src="Images/USER_TESTING/user_testing_navbar.png" alt="User testing website navbar before the user has logged in." width="50%">
 <img src="Images/USER_TESTING/user_testing_navbar_pos_login.png" alt="User testing website navbar after the user has logged in." width="50%">
 
+
 **User Testing Website Signup**
 <img src="Images/USER_TESTING/UTW_signup.png" alt="User testing website type A and B user register." width="50%">
+
 
 **User Testing Website Signin**
 <img src="Images/USER_TESTING/UTW_signin.png" alt="User testing website type A and B user authentication." width="50%">
 
+
 **User Testing Website Account Update**
 <img src="Images/USER_TESTING/UTW_account.png" alt="User testing website type A update account." width="50%">
+
 
 **User Testing Website Type B Account Update**
 <img src="Images/USER_TESTING/UTW_US_account.png" alt="User testing website type B update account." width="50%">
 
+
 **Product Search on User Testing Website**
 <img src="Images/USER_TESTING/UTW_search.png" alt="Search for products in the search bar on the User testing website type A and B." width="50%">
+
 
 **Advanced Product Search on User Testing Website**
 <img src="Images/USER_TESTING/UTW_search_.png" alt="Search for products by price range, categories, products in stock, new, used or in the promotion and by seller type in the User testing website type A and B." width="50%">
 
+
 **Incomplete Product Search on User Testing Website Type B**
 <img src="Images/USER_TESTING/UTW_US_search.png" alt="Incomplete product search on User testing website type B." width="50%">
+
 
 **Add Product to Cart**
 <img src="Images/USER_TESTING/UTW_add_prod_cart.png" alt="Option to add the product to cart on the User testing website type A and B." width="35%">
 
+
 **Perform Product Purchase Checkout**
 <img src="Images/USER_TESTING/shoppingCart_check_out.png" alt="Performing product purchase checkout on the User testing website type A and B." width="50%">
+
 
 **Fill in Payment Details**
 <img src="Images/USER_TESTING/payment.png" alt="Filling in the data required to pay for the purchase on the User testing website type A and B." width="50%">
 
+
 **Payment Method Verification**
 <img src="Images/USER_TESTING/payment_verification.png" alt="Payment method verification on the User testing website type A and B." width="50%">
+
 
 **Fill out a Review on the User Testing Website**
 <img src="Images/USER_TESTING/UTW_review.png" alt="Form for filling out a user testing website type A and B review." width="50%">
 
+
 **Fill out a Review on User Testing Website Type A**
 <img src="Images/USER_TESTING/UTW_review.png" alt="Form for filling out a user testing website type A review." width="50%">
 
+
 **Fill out a Review on User Testing Website Type B**
 <img src="Images/USER_TESTING/review_UP.png" alt="Form for filling out a user testing website type B review." width="50%">
+
 
 **Go to Wrong Page/Misleading Link" Issue on User Testing Website Type B**
 <img src="Images/USER_TESTING/UTW_US_logout.png" alt="Go to wrong page/Misleading link” usability problem on user testing website B review." width="100%">
