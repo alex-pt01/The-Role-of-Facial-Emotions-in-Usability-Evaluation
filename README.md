@@ -103,6 +103,8 @@ The database consists of the following entities:
 
 These entities collectively form the structure of the system's database, facilitating the organization and management of data for the user testing website.
 
+## Examples
+
 **User Testing Website Navbar**
 
 <img src="Images/USER_TESTING/user_testing_navbar.png" alt="User testing website navbar before the user has logged in." width="25%">
