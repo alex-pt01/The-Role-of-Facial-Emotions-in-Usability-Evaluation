@@ -140,6 +140,8 @@ These entities collectively form the structure of the system's database, facilit
 <img src="Images/USER_TESTING/UTW_US_logout.png" alt="Go to wrong page/Misleading link” usability problem on user testing website B review." width="100%">
 
 
+
+
 ## Functional Requirements
 
 
