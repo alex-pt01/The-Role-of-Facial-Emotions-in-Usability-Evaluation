@@ -40,6 +40,7 @@ The functional requirements specified below are applicable to both User Testing 
 - **Logout (REQ-4):**
   - The system must provide a secure logout feature that allows users to log out of their accounts when desired.
 
+
 - **Products (REQ-5):**
   - **Search Functionality (REQ-5.1):**
     - The system should provide users with a search functionality that allows them to search for products using a search bar. Additionally, users should be able to filter search results based on price range, categories, products in stock, new or used items, items on sale, and the type of seller.
@@ -202,76 +203,79 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 
 #### Common to All Stakeholders
 
-- **User Registration (REQ-1):** The system must provide a user registration feature with fields for first name, last name, email address, and password. It should differentiate between team leaders and team members.
-- **User Authentication (REQ-2):** Users should be able to log in with their registered email and password. The system must validate credentials and show appropriate error messages for incorrect login information.
-- **Update User Account (REQ-3):** Users should have the ability to securely update their personal data, including name, email, and password.
-- **Logout (REQ-4):** The system must include a secure logout functionality.
+- **User Registration (REQ-1):** The system must provide a user registration feature where users can create an account by providing their first name, last name, email address, and a password that meets specified requirements. The registration process should differentiate between team leaders and team members.
+- **User Authentication (REQ-2):** The system should enable users to log in using their registered username (email) and password. The system must validate the provided credentials and display appropriate error messages if the login information is incorrect, such as an invalid email or password.
+- **Update User Account (REQ-3):** The system should provide users with the capability to update their personal data securely. This feature allows users to modify their account information, such as name, email address, or password.
+- **Logout (REQ-4):** The system must include a secure logout functionality that allows users to log out from their accounts when needed.
 
 #### Team Leader Functional Requirements
 
 - **Project Management (REQ-6)**
-  - **Create Project Data (REQ-6.1):** Allow the creation of new projects with specified details.
-  - **Read Project Data (REQ-6.2):** Present project data in a readable format and provide filtering options.
-  - **Update Project Data (REQ-6.3):** Enable editing of project details.
-  - **Delete Project Data (REQ-6.4):** Allow deletion of projects based on filtering criteria.
+  - **Create Project Data (REQ-6.1):** The system must allow for the creation of new projects by defining their name, description, start date, and end date in a valid and formatted way.
+  - **Read Project Data (REQ-6.2):** The system must allow for the presentation of data in a readable and organized format, and the filtering of the same from the name, description, start date, and end date of at least one project.
+  - **Update Project Data (REQ-6.3):**  The system must allow editing of the already created date of a given project in a valid and formatted way.
+  - **Delete Project Data (REQ-6.4):** he system must allow for deleting one or more projects by filtering for name, description, start date, and end date.
 
 - **Project Data Management (REQ-7)**
-  - **Upload Usability Testing Data (REQ-7.1):** Provide functionality to upload usability testing data, including webcam and screen recordings, usability testing name, user type, user ID, and location.
-  - **Usability Testing Data Storage (REQ-7.2):** Store screen recordings and facial emotion data securely and anonymously.
-  - **Read Usability Testing Data (REQ-7.3):** Present usability testing data in an organized format with filtering options.
-  - **Update Usability Testing Data (REQ-7.4):** Allow editing of usability testing data.
-  - **Delete Usability Testing Data (REQ-7.5):** Enable deletion of usability testing data based on filtering criteria.
-  - **Split Usability Testing Data (REQ-7.6):** Allow the splitting of screen recordings into task-based sub-videos.
-  - **Update Usability Testing Data (Split) (REQ-7.7):** Allow editing of split usability testing data.
-  - **Delete Usability Testing Data (Split) (REQ-7.8):** Enable deletion of split usability testing data.
-  - **Create Usability Smells (REQ-7.9):** Provide functionality to create usability smells with names and descriptions.
-  - **Read Usability Smells (REQ-7.10):** Present usability smells data in an organized format with filtering options.
-  - **Update Usability Smells (REQ-7.11):** Allow editing of usability smells.
-  - **Delete Usability Smells (REQ-7.12):** Enable deletion of usability smells based on filtering criteria.
+  - **Upload Usability Testing Data (REQ-7.1):** The system must provide the functionality to upload both the webcam video recorder and the screen video recorder for a usability test. Additionally, it should allow assigning a usability testing name, user type (A or B), user ID, and the location where the test was performed.
+  - **Usability Testing Data Storage (REQ-7.2):** When uploading videos for a usability test, the system should store only the screen video recorder in the designated database. The facial emotions detected by a classification algorithm on the webcam video recorder must also be stored securely and anonymously.
+  - **Read Usability Testing Data (REQ-7.3):** The system must present usability testing data in a readable and organized format. Users should be able to filter the data by project name, project description, user type, user ID, location, and whether the screen video data has been divided into tasks.
+  - **Update Usability Testing Data (REQ-7.4):** The system must allow valid and properly formatted editing of existing usability testing data within a given project.
+  - **Delete Usability Testing Data (REQ-7.5):** Users should be able to delete one or more usability testing data based on filtering criteria such as project name, project description, user type, user ID, location, and whether the screen video data has been divided into tasks.
+  - **Split Usability Testing Data (REQ-7.6):** The system should enable the splitting of each usability testing screen video into task-based sub-videos. These sub-videos should have the same duration and be associated with corresponding names and actions for use in the CW.
+  - **Update Usability Testing Data (Split) (REQ-7.7):**Users should have the ability to edit already split usability testing data, ensuring the data remains valid and properly formatted.
+  - **Delete Usability Testing Data (Split) (REQ-7.8):** The system must allow the deletion of split usability testing data associated with a specific usability test, considering appropriate filtering options.
+  - **Create Usability Smells (REQ-7.9):** The system must provide the functionality to create a list of usability smells, including their names and descriptions.
+  - **Read Usability Smells (REQ-7.10):** Usability smells data should be presented in a readable and organized format. Users should be able to filter the data based on usability smell names and descriptions.
+  - **Update Usability Smells (REQ-7.11):** Users should have the ability to edit usability smells, ensuring the changes are valid and properly formatted.
+  - **Delete Usability Smells (REQ-7.12):** The system must allow the deletion of one or more usability smells, providing filtering options based on name and/or description.
     
 - **Project Invitations (REQ-8)**
-  - **Create Project Invitation (REQ-8.1):** Allow the creation of project invitations for team members.
-  - **Read Project Invitation (REQ-8.2):** Present project invitations in a readable format with filtering options.
-  - **Delete Project Invitation (REQ-8.3):** Enable the deletion of project invitations based on filtering criteria.
+  - **Create Project Invitation (REQ-8.1):** The system should enable the creation of project invitations by selecting one or more projects for a specific team member via their email.
+  - **Read Project Invitation (REQ-8.2):** The system must present project invitations in a readable and organized format, allowing filtering by project name, team member name, team member email, start date, end date, and creation date.
+  - **Delete Project Invitation (REQ-8.3):** The system must provide the capability to delete one or more project invitations based on filtering criteria such as project name, team member name, team member email, start date, end date, and creation date.
   
 - **Conclusions (REQ-9)**
-  - **Permission to Consolidate Usability Testing Results (REQ-9.1):** Display usability evaluation progress and provide a button for consolidating results.
-  - **Read Team Members' Usability Testing Results (REQ-9.2):** Present usability evaluation progress and allow the selection of usability tests for viewing.
-  - **Read Usability Testing Results (REQ-9.3):** Display cumulative facial emotion data and consolidated usability testing results.
-  - **Search Usability Testing Results (REQ-9.4):** Allow filtering of usability testing results.
-  - **Usability Testing Results Data Export (REQ-9.5):** Provide functionality to export usability testing results in CSV format.
-  - **Read Team Members' Overall Usability Testing Results (REQ-9.6):** Display quantitative end results from consolidated results.
-  - **Search Overall Usability Testing Results (REQ-9.7):** Allow filtering of overall usability testing results.
-  - **Overall Usability Testing Results Data Export (REQ-9.8):** Enable the export of overall usability testing results in CSV format.
+  - **Permission to Consolidate Usability Testing Results (REQ-9.1):** The system should display the usability evaluation progress of all tasks from all usability tests conducted by team members in a readable and organized format. Additionally, it should include a button to grant permission for consolidating the results.
+  - **Read Team Members' Usability Testing Results (REQ-9.2):** The system must present the progress of usability evaluation for tasks from all usability tests conducted by team members. This information should be displayed in a readable and organized format, allowing the selection of a usability test to view the usability evaluation of each team member.
+  - **Read Usability Testing Results (REQ-9.3):** For each task-based usability test associated with a specific usability test, the system should be capable of displaying the cumulative frequency and distribution of facial emotions. Additionally, it should present the consolidated usability testing results for each usability testing method.
+  - **Search Usability Testing Results (REQ-9.4):** The system should allow filtering of usability testing results by user type for each task-based usability testing associated with a specific usability test.
+  - **Usability Testing Results Data Export (REQ-9.5):** The system must provide the functionality to export usability testing results in data in a CSV file format for one or both user types.
+
+  - **Read Team Members' Overall Usability Testing Results (REQ-9.6):** The system should allow the presentation of quantitative end results from the consolidated results. This includes displaying the distribution of each emotion's cumulative frequency across all tasks in all usability tests, the distribution of usability problems across all tasks in all usability tests, and the number of usability problems encountered with or without the help of facial emotions for each task-based usability testing associated with a specific usability test.
+
+  - **Search Overall Usability Testing Results (REQ-9.7):** For each overall usability test, the system must allow filtering of results by user type.
+
+  - **Overall Usability Testing Results Data Export (REQ-9.8):** The system should enable the export of overall usability testing results from data in a \ac{CSV} file format for one or both user types.
 
 #### Team Member Functional Requirements
 
 - **Project Invitations (REQ-10)**
-  - **Read Project Invitation (REQ-10.1):** Present project invitations in a readable format with filtering options.
-  - **Accept Project Invitation (REQ-10.2):** Allow team members to accept project invitations.
+  - **Read Project Invitation (REQ-10.1):** The system must allow the presentation of project invitations in a readable and organized format. Users should be able to filter invitations by project name, team leader name, team leader email, start date, and end date.
+  - **Accept Project Invitation (REQ-10.2):** The system should allow team members to accept project invitations sent by team leaders, indicating their participation in the given project.
+
     
 - **Usability Evaluation Projects (REQ-11)**
-  - **Access to Usability Evaluation Methods for Each Project (REQ-11.1):** Display projects and usability evaluation methods in the navigation bar.
-  - **Read Usability Tests (REQ-11.2):** Present usability test data and progress.
+  - **Access to Usability Evaluation Methods for Each Project (REQ-11.1):** The system should display all projects and their corresponding usability evaluation methods directly in the navigation bar, providing easy access to these options.
+  - **Read Usability Tests (REQ-11.2):** For each usability test associated with a specific project and usability evaluation method, the system must present the data in a readable and organized format. Additionally, it should display the progress of usability evaluation tasks for all usability tests and allow the user to select a usability test for evaluation, with or without the assistance of facial emotions.
   
 - **Usability Evaluation with CW (REQ-11.3):**
-  - **Read Tasks-Based Usability Testing (REQ-11.3.1):** Display information about tasks and usability evaluation status.
-  - **Evaluate Task-Based Usability Testing (REQ-11.3.2):** Present actions and fields for evaluating tasks with CW questions.
+  - **Read Tasks-Based Usability Testing (REQ-11.3.1):** For each task-based usability test within a pre-selected usability test, the system should display information and actions related to each task in a readable format. It should indicate whether the usability evaluation of the task has already been performed and provide a button to initiate the evaluation process.
+  - **Evaluate Task-Based Usability Testing (REQ-11.3.2):**     The system should present the actions associated with pre-selected task-based usability testing in a readable format. It should include the four CW questions and respective fields for answering them. A field for writing notes and a checkbox to indicate whether the task has been evaluated should also be provided.
  
 - **Usability Evaluation with Usability Smells (REQ-11.4):**
-  - **Read Tasks-Based Usability Testing (REQ-11.4.1):** Display information about tasks and usability evaluation status.
-  - **Evaluate Task-Based Usability Testing (REQ-11.4.2):** Provide a list of usability smells and fields for evaluation.
+  - **Read Tasks-Based Usability Testing (REQ-11.4.1):**    For each task-based usability test within a pre-selected usability test, the system should display information about each task in a readable format. It should indicate whether the usability evaluation of the task has already been performed and provide a button to initiate the evaluation process.
+  - **Evaluate Task-Based Usability Testing (REQ-11.4.2):**     The system should present a list of usability smells in a readable format, allowing users to select relevant ones. It should include a field for writing notes and a checkbox to indicate whether the task has been evaluated.
   - **Usability Testing Results from Consolidation (REQ-12)**
 
 - **Usability Evaluation with CW (REQ-12.1):**
-  - **Read Usability Tests (REQ-12.1.1):** Display usability test information, including permission for consolidation.
-  - **Read Tasks-Based Usability Testing (REQ-12.1.2):** Display task information and usability evaluation initiation.
-  - **Usability Testing Results Consolidation (REQ-12.1.3):** Present actions and fields for consolidating usability testing results.
-    
+  - **Read Usability Tests (REQ-12.1.1):**     The system should present information about the usability tests conducted for a specific project. This includes details such as the project end date, usability test name, user type, user ID, location, permission status for consolidating results with other team members, and the option to choose whether to consolidate usability testing results with or without the assistance of facial emotions.
+  - **Read Tasks-Based Usability Testing (REQ-12.1.2):**     For each task-based usability test within a pre-selected usability test, the system must display information about each task in a clear and readable format. It should indicate whether the usability evaluation for the task has been conducted and provide a button to initiate the usability evaluation of the task with all associated team members.
+  - **Usability Testing Results Consolidation (REQ-12.1.3):**     The system should present the actions associated with the pre-selected tasks-based usability testing in a readable format. It should include the four CW questions and provide fields for answering them. A field for writing notes and a checkbox to indicate whether the task has already been evaluated should also be available.
 - **Usability Evaluation with Usability Smells (REQ-12.2):**
-  - **Read Usability Tests (REQ-12.2.1):** Display usability test information, including permission for consolidation.
-  - **Read Tasks-Based Usability Testing (REQ-12.2.2):** Display task information and usability evaluation initiation.
-  - **Evaluate Task-Based Usability Testing (REQ-12.2.3):** Provide a list of usability smells and fields for evaluation.
+  - **Read Usability Tests (REQ-12.2.1):** Similar to the CW approach, the system should display information about the usability tests conducted for a specific project. This includes details such as the project end date, usability test name, user type, user ID, location, permission status for consolidating results with other team members, and the option to choose whether to consolidate usability testing results with or without the assistance of facial emotions.
+  - **Read Tasks-Based Usability Testing (REQ-12.2.2):** For all tasks-based usability testing of a given usability test pre-selected by the user, the system must display the information of each task in a readable format, whether the usability evaluation of the task has already taken place and a button to evaluate the usability of the task in order to start the evaluation together with all team members.
+  - **Evaluate Task-Based Usability Testing (REQ-12.2.3):** The system must present in a readable format a list of usability smells with the option to select them, a field to write notes, and a checkbox to mention if the task has already been evaluated.
 
 
 
