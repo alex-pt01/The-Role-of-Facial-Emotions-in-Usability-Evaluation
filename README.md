@@ -15,7 +15,7 @@ Images/model1_acc_loss.png
     - [Common to All Stakeholders](#common-to-all-stakeholders)
     - [Team Leader Functional Requirements](#team-leader-functional-requirements)
     - [Team Member Functional Requirements](#team-member-functional-requirements)
-
+  - [Emotinality non-functional requirements](#emotinality-non-functional-requirements)
 
 
 
@@ -240,7 +240,7 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
   - **Read Team Members' Usability Testing Results (REQ-9.2):** The system must present the progress of usability evaluation for tasks from all usability tests conducted by team members. This information should be displayed in a readable and organized format, allowing the selection of a usability test to view the usability evaluation of each team member.
   - **Read Usability Testing Results (REQ-9.3):** For each task-based usability test associated with a specific usability test, the system should be capable of displaying the cumulative frequency and distribution of facial emotions. Additionally, it should present the consolidated usability testing results for each usability testing method.
   - **Search Usability Testing Results (REQ-9.4):** The system should allow filtering of usability testing results by user type for each task-based usability testing associated with a specific usability test.
-  - **Usability Testing Results Data Export (REQ-9.5):** The system must provide the functionality to export usability testing results in data in a CSV file format for one or both user types.
+  - **Usability Testing Results from Data Export (REQ-9.5):** The system must provide the functionality to export usability testing results in data in a CSV file format for one or both user types.
 
   - **Read Team Members' Overall Usability Testing Results (REQ-9.6):** The system should allow the presentation of quantitative end results from the consolidated results. This includes displaying the distribution of each emotion's cumulative frequency across all tasks in all usability tests, the distribution of usability problems across all tasks in all usability tests, and the number of usability problems encountered with or without the help of facial emotions for each task-based usability testing associated with a specific usability test.
 
@@ -277,7 +277,12 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
   - **Read Tasks-Based Usability Testing (REQ-12.2.2):** For all tasks-based usability testing of a given usability test pre-selected by the user, the system must display the information of each task in a readable format, whether the usability evaluation of the task has already taken place and a button to evaluate the usability of the task in order to start the evaluation together with all team members.
   - **Evaluate Task-Based Usability Testing (REQ-12.2.3):** The system must present in a readable format a list of usability smells with the option to select them, a field to write notes, and a checkbox to mention if the task has already been evaluated.
 
+### Emotinality non-functional requirements
 
+- **Performance:** The system must demonstrate efficient performance by ensuring fast loading times, with pages loading within a maximum of 3 seconds. 
+- **Availability:** The system should maintain a high level of availability, ensuring uninterrupted access to users. Scheduled maintenance activities and system downtime should be carefully planned and minimized to minimize disruptions to user accessibility.
+- **Security:** The system should be secure, with measures to protect user data and prevent unauthorized access or attacks, such as SSL encryption.
+- **Usability:** The system should prioritize usability, providing a user-friendly experience for individuals with varying levels of technical proficiency. It should feature an intuitive and well-organized interface, ensuring ease of navigation and smooth user interaction.
 
 
 
