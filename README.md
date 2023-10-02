@@ -324,6 +324,10 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 - **Security:** The system should be secure, with measures to protect user data and prevent unauthorized access or attacks, such as SSL encryption.
 - **Usability:** The system should prioritize usability, providing a user-friendly experience for individuals with varying levels of technical proficiency. It should feature an intuitive and well-organized interface, ensuring ease of navigation and smooth user interaction.
 
+
+**The Emotionality Tool security.**
+<img src="Images/CONCLUSIONS_WEBSITE/https_final.png" alt="The Emotionality Tool security." width="30%">
+
 ## Emotionality database description
 
 - **TeamLeader:** A model that extends the built-in Django User model to represent a project leader.
@@ -432,40 +436,41 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 ## Team member system functionalities
 
 **Navbar before the team member has logged in**
-<img src="./Images/CONCLUSIONS_WEBSITE/TM/TM_navbar.png" alt="Navbar before the team member has logged in" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/TM_navbar.png" alt="Navbar before the team member has logged in" width="30%">
 
 **Navbar after the team member has logged in**
-<img src="./Images/CONCLUSIONS_WEBSITE/TM/TM_navbar_less.png" alt="Navbar after the team member has logged in" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/TM_navbar_less.png" alt="Navbar after the team member has logged in" width="30%">
 
 **Team member project invitations**
-<img src="./Images/CONCLUSIONS_WEBSITE/TM/tm_invitations.png" alt="Team member project invitations" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/tm_invitations.png" alt="Team member project invitations" width="30%">
 
 **Team member usability evaluation methods choice**
-<img src="./Images/CONCLUSIONS_WEBSITE/TM/usability_eval_methods.png" alt="Team member usability evaluation methods choice" width="15%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/usability_eval_methods.png" alt="Team member usability evaluation methods choice" width="15%">
 
 **Progress of each task evaluated**
-<img src="./Images/CONCLUSIONS_WEBSITE/TM/usability_eval_progress.png" alt="Progress of each task evaluated" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/usability_eval_progress.png" alt="Progress of each task evaluated" width="30%">
 
 **Usability evaluation using CW**
-<img src="./Images/CONCLUSIONS_WEBSITE/TM/TM_CW_eval_task.png" alt="Usability evaluation using CW" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/TM_CW_eval_task.png" alt="Usability evaluation using CW" width="30%">
 
 **Usability evaluation using usability smells**
-<img src="./Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_eval.png" alt="Usability evaluation using usability smells" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_eval.png" alt="Usability evaluation using usability smells" width="30%">
 
 **Usability evaluation results using CW**
-<img src="./Images/CONCLUSIONS_WEBSITE/TM/con_results_CW_eval.png" alt="Usability evaluation results using CW" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_CW_eval.png" alt="Usability evaluation results using CW" width="30%">
 
 **Usability evaluation results using usability smells**
-<img src="./Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_eval.png" alt="Usability evaluation results using usability smells" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_eval.png" alt="Usability evaluation results using usability smells" width="30%">
 
 **Consolidation of results using CW between team members**
-<img src="./Images/CONCLUSIONS_WEBSITE/TM/con_results_CW.png" alt="Consolidation of results using CW between team members" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_CW.png" alt="Consolidation of results using CW between team members" width="30%">
 
 **Consolidation of results using usability smells between team members**
-<img src="./Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells.png" alt="Consolidation of results using usability smells between team members" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells.png" alt="Consolidation of results using usability smells between team members" width="30%">
 
 **The Emotionality Tool performance scores**
-<img src="./Images/CONCLUSIONS_WEBSITE/final_performance.png" alt="The Emotionality Tool performance scores" width="24%">
+<img src="Images/CONCLUSIONS_WEBSITE/final_performance.png" alt="The Emotionality Tool performance scores" width="24%">
+
 
 
 
