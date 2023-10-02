@@ -204,7 +204,7 @@ These entities collectively form the structure of the system's database, facilit
 
 **Add Product to Cart**
 
-<img src="Images/USER_TESTING/UTW_add_prod_cart.png" alt="Option to add the product to cart on the User testing website type A and B." width="35%">
+<img src="Images/USER_TESTING/UTW_add_prod_cart.png" alt="Option to add the product to cart on the User testing website type A and B." width="15%">
 
 
 **Perform Product Purchase Checkout**
