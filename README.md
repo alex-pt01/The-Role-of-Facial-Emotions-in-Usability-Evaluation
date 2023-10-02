@@ -4,7 +4,7 @@ This website aims to assist in evaluating the usability of a system. Allows the 
 Images/model1_acc_loss.png
 
 ## Indice
-
+- [Facial Emotion Recognition Algorithm](#facial-emotion-recognition-algorithm)
 - [User Testing Websites](#user-testing-websites)
   - [Functional requirements](#functional-requirements)
   - [Usability Smells](#usability-smells)
@@ -20,6 +20,35 @@ Images/model1_acc_loss.png
   - [Stakeholders common views](#stakeholders-common-views)
   - [Team leader system functionalities](#team-leader-system-functionalities)
   - [Team member system functionalities](#team-leader-system-functionalities)
+
+## Facial Emotion Recognition Algorithm
+
+All models created are represented in the graphs below.
+
+**Model 1**
+
+<img src="Images/model1_acc_loss.png" alt="Accuracy of model 1." width="35%">
+<img src="Images/model1_conf_matrix" alt="Loss of model 1." width="35%">
+
+**Model 2**
+
+<img src="Images/model2_acc_loss.png" alt="Accuracy of model 2." width="35%">
+<img src="Images/model2_conf_matrix" alt="Loss of model 2." width="35%">
+
+**Model 4**
+
+<img src="Images/model4_acc_loss.png" alt="Accuracy of model 4." width="35%">
+<img src="Images/model4_conf_matrix" alt="Loss of model 4." width="35%">
+
+**Model 5**
+
+<img src="Images/model5_acc_loss.png" alt="Accuracy of model 5." width="35%">
+<img src="Images/model5_conf_matrix" alt="Loss of model 5." width="35%">
+
+**Model 6**
+
+<img src="Images/model6_acc_loss.png" alt="Accuracy of model 6." width="35%">
+<img src="Images/model6_conf_matrix" alt="Loss of model 6." width="35%">
 
 
 
