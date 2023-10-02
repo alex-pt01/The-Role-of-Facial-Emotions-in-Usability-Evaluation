@@ -27,11 +27,10 @@ All models created are represented in the graphs below.
 
 **Model 1**
 
-![alt-text-1](Images/model1_acc_loss.png "title-1") ![alt-text-2](Images/model1_conf_matrix.png "title-2")
 
 <p float="left">
 <img src="Images/model1_acc_loss.png" alt="Accuracy of model 1." width="50%">
-<img src="Images/model1_conf_matrix.png" alt="Loss of model 1." width="50%">
+<img src="Images/model1_conf_matrix.png" alt="Loss of model 1." width="20%">
 </p>
 
 **Model 2**
