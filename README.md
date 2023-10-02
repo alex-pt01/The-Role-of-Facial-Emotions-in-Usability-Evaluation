@@ -1,14 +1,12 @@
 # The Role of Facial-Emotions in Usability Evaluation
+<img src="Images/IST_A_RGB_POS.png" alt="" width="10%">
 
 Repository containing all the development work and additional documentation that provides a more detailed complement to what was mentioned in the master dissertation document titled 'The Role of Facial Emotions in Usability Evaluation,' authored by Alexandre Antunes Rodrigues.
 
 <p float="left">
 <img src="Images/logo1.png" alt="" width="20%">
 </p>
-<p float="right">
-<img src="Images/IST_A_RGB_POS.png" alt="" width="10%">
 
-</p>
 
 ## Indice
 - [Facial Emotion Recognition Algorithm](#facial-emotion-recognition-algorithm)
