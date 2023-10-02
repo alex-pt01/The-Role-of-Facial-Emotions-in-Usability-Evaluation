@@ -508,45 +508,6 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 <img src="Images/CONCLUSIONS_WEBSITE/TL/results_ind.png" alt="Cumulative Frequency of Facial Emotions" width="30%">
 
 
-**Error Rate**
-
-<img src="Images/CONCLUSIONS_WEBSITE/TL/error_rate.png" alt="Error Rate" width="30%">
-
-
-**Average Task Completion Time**
-
-<img src="Images/CONCLUSIONS_WEBSITE/TL/avg_task_time.png" alt="Average Task Completion Time" width="30%">
-
-
-**Usability Test Analysis**
-
-<img src="Images/CONCLUSIONS_WEBSITE/TL/test_analysis.png" alt="Usability Test Analysis" width="30%">
-
-
-**Export Usability Test Results**
-
-<img src="Images/CONCLUSIONS_WEBSITE/TL/export_results.png" alt="Export Usability Test Results" width="30%">
-
-
-**Export Task Completion Time Results**
-
-<img src="Images/CONCLUSIONS_WEBSITE/TL/export_task_time.png" alt="Export Task Completion Time Results" width="30%">
-
-
-**Export Satisfaction Rate Results**
-
-<img src="Images/CONCLUSIONS_WEBSITE/TL/export_satisfaction_rate.png" alt="Export Satisfaction Rate Results" width="30%">
-
-
-**Export Cumulative Frequency of Facial Emotions**
-
-<img src="Images/CONCLUSIONS_WEBSITE/TL/export_cfd.png" alt="Export Cumulative Frequency of Facial Emotions" width="30%">
-
-
-**Closing the Session**
-
-<img src="Images/CONCLUSIONS_WEBSITE/TL/closing_session.png" alt="Closing the Session" width="30%">
-
 
 ## Team member system functionalities
 
