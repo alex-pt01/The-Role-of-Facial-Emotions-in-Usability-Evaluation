@@ -1,7 +1,12 @@
-# Emotionality
+#The Role of Facial-Emotions in Usability Evaluation
 
-This website aims to assist in evaluating the usability of a system. Allows the creation of projects, creation of teams, attribution of usability tests carried out with users to the project and visualization of results. It has the particularity of analyzing the impact that facial emotions have when using traditional usability evaluation methods such as cognitive walkthrough and usability smells. 
-Images/model1_acc_loss.png
+Repository containing all the development work and additional documentation that provides a more detailed complement to what was mentioned in the master dissertation document titled 'The Role of Facial Emotions in Usability Evaluation,' authored by Alexandre Antunes Rodrigues.
+
+<p float="left">
+<img src="Images/logo1" alt="" width="50%">
+<img src="Images/IST_A_RGB_POS.png" alt="" width="30%">
+</p>
+
 
 ## Indice
 - [Facial Emotion Recognition Algorithm](#facial-emotion-recognition-algorithm)
