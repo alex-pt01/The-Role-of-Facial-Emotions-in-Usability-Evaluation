@@ -22,6 +22,7 @@ Images/model1_acc_loss.png
   - [Stakeholders common views](#stakeholders-common-views)
   - [Team leader system functionalities](#team-leader-system-functionalities)
   - [Team member system functionalities](#team-leader-system-functionalities)
+  - [Heuristic Evaluation Google Forms Consent](#heuristic-evaluation-google-forms-consent)
 
 ## Facial Emotion Recognition Algorithm
 
@@ -613,8 +614,12 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 <img src="Images/CONCLUSIONS_WEBSITE/final_performance.png" alt="The Emotionality Tool performance scores" width="50%">
 
 
+## Heuristic Evaluation Google Forms Consent
 
+**Google Forms Consent**
 
+<img src="Images/AH_form1.png" alt="Google Forms Consent" width="50%">
+<img src="Images/AH_form2.png" alt="Google Forms Consent" width="50%">
 
 
 
