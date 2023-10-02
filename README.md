@@ -12,7 +12,6 @@ Images/model1_acc_loss.png
   - [Examples](#examples)
 - [Usability Tests](#usability-tests)
   - [Consent performed on Google Forms](#consent-performed-on-google-forms)
-
 - [The Emotionality Tool](#the-emotionality-tool)
   - [Emotinality functional requirements](#emotinality-functional-requirements)
     - [Common to All Stakeholders](#common-to-all-stakeholders)
