@@ -4,9 +4,11 @@ Repository containing all the development work and additional documentation that
 
 <p float="left">
 <img src="Images/logo1.png" alt="" width="20%">
-<img src="Images/IST_A_RGB_POS.png" alt="" width="30%">
 </p>
+<p float="right">
+<img src="Images/IST_A_RGB_POS.png" alt="" width="10%">
 
+</p>
 
 ## Indice
 - [Facial Emotion Recognition Algorithm](#facial-emotion-recognition-algorithm)
