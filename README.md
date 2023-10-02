@@ -535,12 +535,12 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 
 **Navbar before the team member has logged in**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/TM_navbar.png" alt="Navbar before the team member has logged in" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/TM_navbar.png" alt="Navbar before the team member has logged in" width="10%">
 
 
 **Navbar after the team member has logged in**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/TM_navbar_less.png" alt="Navbar after the team member has logged in" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/TM_navbar_less.png" alt="Navbar after the team member has logged in" width="10%">
 
 
 **Team member project invitations**
