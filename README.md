@@ -348,7 +348,7 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 ## Stakeholders common views**
 
 **Navbar Before Team Leader Login**
-<img src="Images/CONCLUSIONS_WEBSITE/TL/TL_navbar.png" alt="Navbar Before Team Leader Login" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/TL_navbar.png" alt="Navbar Before Team Leader Login" width="10%">
 <img src="Images/CONCLUSIONS_WEBSITE/TL/TL_navbar_less.png" alt="Navbar After Team Leader Login" width="30%">
 
 **Team Leader Signup**
