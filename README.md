@@ -30,7 +30,7 @@ All models created are represented in the graphs below.
 
 <p float="left">
 <img src="Images/model1_acc_loss.png" alt="Accuracy of model 1." width="70%">
-<img src="Images/model1_conf_matrix.png" alt="Loss of model 1." width="25%">
+<img src="Images/model1_conf_matrix.png" alt="Loss of model 1." width="35%">
 </p>
 
 **Model 2**
