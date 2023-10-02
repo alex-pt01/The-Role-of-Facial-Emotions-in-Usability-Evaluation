@@ -35,26 +35,26 @@ All models created are represented in the graphs below.
 
 **Model 2**
 <p float="left">
-<img src="Images/model2_acc_loss.png" alt="Accuracy of model 2." width="50%">
-<img src="Images/model2_conf_matrix.png" alt="Loss of model 2." width="50%">
+<img src="Images/model2_acc_loss.png" alt="Accuracy of model 2." width="70%">
+<img src="Images/model2_conf_matrix.png" alt="Loss of model 2." width="28%">
 </p>
 
 **Model 4**
 <p float="left">
-<img src="Images/model4_acc_loss.png" alt="Accuracy of model 4." width="50%">
-<img src="Images/model4_conf_matrix.png" alt="Loss of model 4." width="50%">
+<img src="Images/model4_acc_loss.png" alt="Accuracy of model 4." width="70%">
+<img src="Images/model4_conf_matrix.png" alt="Loss of model 4." width="28%">
 </p>
 
 **Model 5**
 <p float="left">
-<img src="Images/model5_acc_loss.png" alt="Accuracy of model 5." width="50%">
-<img src="Images/model5_conf_matrix.png" alt="Loss of model 5." width="50%">
+<img src="Images/model5_acc_loss.png" alt="Accuracy of model 5." width="70%">
+<img src="Images/model5_conf_matrix.png" alt="Loss of model 5." width="28%">
 </p>
 
 **Model 6**
 <p float="left">
-<img src="Images/model6_acc_loss.png" alt="Accuracy of model 6." width="50%">
-<img src="Images/model6_conf_matrix.png" alt="Loss of model 6." width="50%">
+<img src="Images/model6_acc_loss.png" alt="Accuracy of model 6." width="70%">
+<img src="Images/model6_conf_matrix.png" alt="Loss of model 6." width="28%">
 </p>
 
 
