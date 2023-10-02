@@ -29,8 +29,8 @@ All models created are represented in the graphs below.
 
 
 <p float="left">
-<img src="Images/model1_acc_loss.png" alt="Accuracy of model 1." width="50%">
-<img src="Images/model1_conf_matrix.png" alt="Loss of model 1." width="20%">
+<img src="Images/model1_acc_loss.png" alt="Accuracy of model 1." width="60%">
+<img src="Images/model1_conf_matrix.png" alt="Loss of model 1." width="30%">
 </p>
 
 **Model 2**
