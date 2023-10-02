@@ -301,7 +301,7 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 
   - **Search Overall Usability Testing Results (REQ-9.7):** For each overall usability test, the system must allow filtering of results by user type.
 
-  - **Overall Usability Testing Results Data Export (REQ-9.8):** The system should enable the export of overall usability testing results from data in a \ac{CSV} file format for one or both user types.
+  - **Overall Usability Testing Results Data Export (REQ-9.8):** The system should enable the export of overall usability testing results from data in a CSV file format for one or both user types.
 
 #### Team Member Functional Requirements
 
@@ -341,7 +341,9 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 
 
 **The Emotionality Tool security.**
-<img src="Images/CONCLUSIONS_WEBSITE/https_final.png" alt="The Emotionality Tool security." width="30%">
+
+
+<img src="Images/CONCLUSIONS_WEBSITE/https_final.png" alt="The Emotionality Tool security." width="55%">
 
 ## Emotionality database description
 
