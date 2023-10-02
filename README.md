@@ -540,57 +540,57 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 
 **Navbar after the team member has logged in**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/TM_navbar_less.png" alt="Navbar after the team member has logged in" width="10%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/TM_navbar_less.png" alt="Navbar after the team member has logged in" width="5%">
 
 
 **Team member project invitations**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/tm_invitations.png" alt="Team member project invitations" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/tm_invitations.png" alt="Team member project invitations" width="50%">
 
 
 **Team member usability evaluation methods choice**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/usability_eval_methods.png" alt="Team member usability evaluation methods choice" width="15%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/usability_eval_methods.png" alt="Team member usability evaluation methods choice" width="50%">
 
 
 **Progress of each task evaluated**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/usability_eval_progress.png" alt="Progress of each task evaluated" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/usability_eval_progress.png" alt="Progress of each task evaluated" width="50%">
 
 
 **Usability evaluation using CW**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/TM_CW_eval_task.png" alt="Usability evaluation using CW" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/TM_CW_eval_task.png" alt="Usability evaluation using CW" width="50%">
 
 
 **Usability evaluation using usability smells**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_eval.png" alt="Usability evaluation using usability smells" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_eval.png" alt="Usability evaluation using usability smells" width="50%">
 
 
 **Usability evaluation results using CW**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_CW_eval.png" alt="Usability evaluation results using CW" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_CW_eval.png" alt="Usability evaluation results using CW" width="50%">
 
 
 **Usability evaluation results using usability smells**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_eval.png" alt="Usability evaluation results using usability smells" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_eval.png" alt="Usability evaluation results using usability smells" width="50%">
 
 
 **Consolidation of results using CW between team members**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_CW.png" alt="Consolidation of results using CW between team members" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_CW.png" alt="Consolidation of results using CW between team members" width="50%">
 
 
 **Consolidation of results using usability smells between team members**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells.png" alt="Consolidation of results using usability smells between team members" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells.png" alt="Consolidation of results using usability smells between team members" width="50%">
 
 
 **The Emotionality Tool performance scores**
 
-<img src="Images/CONCLUSIONS_WEBSITE/final_performance.png" alt="The Emotionality Tool performance scores" width="24%">
+<img src="Images/CONCLUSIONS_WEBSITE/final_performance.png" alt="The Emotionality Tool performance scores" width="50%">
 
 
 
