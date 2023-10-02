@@ -11,7 +11,7 @@ Images/model1_acc_loss.png
   - [Database description](#database-description)
   - [Examples](#examples)
 - [Usability Tests](#usability-tests)
-  - [Google Form Concent](#google-form-concent)
+  - [Consent performed on Google Forms](#consent-performed-on-google-forms)
 
 - [The Emotionality Tool](#the-emotionality-tool)
   - [Emotinality functional requirements](#emotinality-functional-requirements)
@@ -239,7 +239,7 @@ These entities collectively form the structure of the system's database, facilit
 
 ## Usability Tests
 
-### Google Form Concent
+### Consent performed on Google Forms
 
 <img src="Images/CONCLUSIONS_WEBSITE/google_forms1.png" alt="" width="30%">
 <img src="Images/CONCLUSIONS_WEBSITE/google_forms2.png" alt="" width="30%">
