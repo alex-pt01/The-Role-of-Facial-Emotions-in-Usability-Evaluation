@@ -618,8 +618,8 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 
 **Google Forms Consent**
 
-<img src="Images/AH_form1.png" alt="Google Forms Consent" width="50%">
-<img src="Images/AH_form2.png" alt="Google Forms Consent" width="50%">
+<img src="Images/AH_forms1.png" alt="Google Forms Consent" width="50%">
+<img src="Images/AH_forms2.png" alt="Google Forms Consent" width="50%">
 
 
 
