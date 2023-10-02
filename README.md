@@ -348,14 +348,15 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 ## Stakeholders common views**
 
 **Navbar Before Team Leader Login**
+<p float="left">
 
 <img src="Images/CONCLUSIONS_WEBSITE/TL/TL_navbar.png" alt="Navbar Before Team Leader Login" width="10%">
 <img src="Images/CONCLUSIONS_WEBSITE/TL/TL_navbar_less.png" alt="Navbar After Team Leader Login" width="30%">
-
+</p>
 
 **Team Leader Signup**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/signup.png" alt="Team Leader Signup" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/signup.png" alt="Team Leader Signup" width="20%">
 
 **Team Leader Sign in**
 
@@ -367,126 +368,127 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 <img src="Images/CONCLUSIONS_WEBSITE/TL/TL_account.png" alt="Team Leader Account Update" width="30%">
 
 **Results consolidation**
+<p float="left">
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_CW_actions.png" alt="Results consolidation with cognitive walkthrough." width="30%">
-<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_actions.png" alt="Results consolidation with usability smells." width="30%">
-
+<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_CW_actions.png" alt="Results consolidation with cognitive walkthrough." width="40%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/con_results_Smells_actions.png" alt="Results consolidation with usability smells." width="40%">
+</p>
 
 ## Team leader system functionalities
 
 **Project Update on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/project_edit.png" alt="Project Update on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/project_edit.png" alt="Project Update on the Final Website" width="50%">
 
 
 **Project Creation on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/project_create.png" alt="Project Creation on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/project_create.png" alt="Project Creation on the Final Website" width="50%">
 
 
 **Project Management on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/projects.png" alt="Project Management on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/projects.png" alt="Project Management on the Final Website" width="50%">
 
 
 **Uploading the Usability Test on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/usability_test_upload.png" alt="Uploading the Usability Test on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/usability_test_upload.png" alt="Uploading the Usability Test on the Final Website" width="50%">
 
 
 **Usability Tests on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/usability_tests.png" alt="Usability Tests on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/usability_tests.png" alt="Usability Tests on the Final Website" width="50%">
 
 
 **Uploading Usability Test on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/update_video.png" alt="Uploading Usability Test on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/update_video.png" alt="Uploading Usability Test on the Final Website" width="50%">
 
 
 **Usability Test Split into Tasks on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/split_video_tasks.png" alt="Usability Test Split into Tasks on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/split_video_tasks.png" alt="Usability Test Split into Tasks on the Final Website" width="50%">
 
 
 **Uploading Usability Test Task on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/edit_task.png" alt="Uploading Usability Test Task on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/edit_task.png" alt="Uploading Usability Test Task on the Final Website" width="50%">
 
 
 **Delete Usability Test Task on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/tasks.png" alt="Delete Usability Test Task on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/tasks.png" alt="Delete Usability Test Task on the Final Website" width="50%">
 
 
 **Usability Smells on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/usability_smells.png" alt="Usability Smells on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/usability_smells.png" alt="Usability Smells on the Final Website" width="50%">
 
 
 **Create Usability Smell on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/create_usability_smell.png" alt="Create Usability Smell on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/create_usability_smell.png" alt="Create Usability Smell on the Final Website" width="50%">
 
 
 **Edit Usability Smell on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/edit_usability_smell.png" alt="Edit Usability Smell on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/edit_usability_smell.png" alt="Edit Usability Smell on the Final Website" width="50%">
 
 
 **Project Invitations on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/invitations.png" alt="Project Invitations on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/invitations.png" alt="Project Invitations on the Final Website" width="50%">
 
 
 **Create Project Invitations on the Final Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/create_invitation.png" alt="Create Project Invitations on the Final Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/create_invitation.png" alt="Create Project Invitations on the Final Website" width="50%">
 
 
 **Managing Permissions for Team Leaders to Consolidate Results**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/permissions_results_cons.png" alt="Managing Permissions for Team Leaders to Consolidate Results" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/permissions_results_cons.png" alt="Managing Permissions for Team Leaders to Consolidate Results" width="50%">
 
 
 **Viewing of Team Members' Work Progress by the Team Leader**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/results_cons_progress.png" alt="Viewing of Team Members' Work Progress by the Team Leader" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_cons_progress.png" alt="Viewing of Team Members' Work Progress by the Team Leader" width="50%">
 
 
 **Usability Tests Results by Team Members**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/results_consolidation.png" alt="Usability Tests Results by Team Members" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_consolidation.png" alt="Usability Tests Results by Team Members" width="50%">
 
 
 **Cumulative Frequency of Facial Emotions and the Distribution of Facial Emotions**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/results_ind.png" alt="Cumulative Frequency of Facial Emotions and the Distribution of Facial Emotions" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_ind.png" alt="Cumulative Frequency of Facial Emotions and the Distribution of Facial Emotions" width="50%">
 
 
 **Export All Results in .CSV Format by Selecting the Type of User Usability Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/results_consolidados_download.png" alt="Export All Results in .CSV Format by Selecting the Type of User Usability Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_consolidados_download.png" alt="Export All Results in .CSV Format by Selecting the Type of User Usability Website" width="50%">
 
 
 **Consolidated Usability Evaluations (Focus on the Usability Problems Found)**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/results_num_usab_prob.png" alt="Consolidated Usability Evaluations (Focus on the Usability Problems Found)" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_num_usab_prob.png" alt="Consolidated Usability Evaluations (Focus on the Usability Problems Found)" width="50%">
 
 
 **Quantitative End-Results from the Consolidated Results**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/results_consolidados.png" alt="Quantitative End-Results from the Consolidated Results" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_consolidados.png" alt="Quantitative End-Results from the Consolidated Results" width="50%">
 
 
 **Export Overall Results in .CSV Format by Selecting the Type of User Usability Website**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/results_consolidados_download1.png" alt="Export Overall Results in .CSV Format by Selecting the Type of User Usability Website" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_consolidados_download.png" alt="Export Overall Results in .CSV Format by Selecting the Type of User Usability Website" width="30%">
 
 
 **Cumulative Frequency of Facial Emotions**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TL/results_cfd.png" alt="Cumulative Frequency of Facial Emotions" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/TL/results_ind.png" alt="Cumulative Frequency of Facial Emotions" width="30%">
 
 
 **Error Rate**
