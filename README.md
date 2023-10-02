@@ -10,6 +10,9 @@ Images/model1_acc_loss.png
   - [Usability Smells](#usability-smells)
   - [Database description](#database-description)
   - [Examples](#examples)
+- [Usability Tests](#usability-tests)
+  - [Google Form Concent](#google-form-concent)
+
 - [The Emotionality Tool](#the-emotionality-tool)
   - [Emotinality functional requirements](#emotinality-functional-requirements)
     - [Common to All Stakeholders](#common-to-all-stakeholders)
@@ -233,6 +236,14 @@ These entities collectively form the structure of the system's database, facilit
 **Go to Wrong Page/Misleading Link" Issue on User Testing Website Type B**
 
 <img src="Images/USER_TESTING/UTW_US_logout.png" alt="Go to wrong page/Misleading link” usability problem on user testing website B review." width="35%">
+
+## Usability Tests
+
+### Google Form Concent
+
+<img src="Images/CONCLUSIONS_WEBSITE/google_forms1.png" alt="" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/google_forms2.png" alt="" width="30%">
+<img src="Images/CONCLUSIONS_WEBSITE/google_forms3.png" alt="" width="30%">
 
 
 ## The Emotionality Tool
