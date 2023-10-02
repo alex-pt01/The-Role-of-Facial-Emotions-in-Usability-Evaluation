@@ -550,7 +550,7 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 
 **Team member usability evaluation methods choice**
 
-<img src="Images/CONCLUSIONS_WEBSITE/TM/usability_eval_methods.png" alt="Team member usability evaluation methods choice" width="50%">
+<img src="Images/CONCLUSIONS_WEBSITE/TM/usability_eval_methods.png" alt="Team member usability evaluation methods choice" width="30%">
 
 
 **Progress of each task evaluated**
