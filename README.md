@@ -13,6 +13,7 @@ Repository containing all the development work and additional documentation that
   - [Functional requirements](#functional-requirements)
   - [Usability Smells](#usability-smells)
   - [Database description](#database-description)
+  - [Usability Testing Tasks](#usability-testing-tasks)
   - [Examples](#examples)
 - [Usability Tests](#usability-tests)
   - [Consent performed on Google Forms](#consent-performed-on-google-forms)
@@ -158,6 +159,63 @@ The database consists of the following entities:
 - **Payment:** The Payment model represents payment details, including address, total amount, available credits (if applicable), and payment date. It is associated with the PaymentMethod template.
 
 These entities collectively form the structure of the system's database, facilitating the organization and management of data for the user testing website.
+
+### Usability Testing Tasks
+
+- **Sign up on the TechIST website**
+  - **Locate the "Login" button in the navbar.**
+  - **Click the "Login" button.**
+  - **Click the "Sign-up" button.**
+  - **Go to the sign-up page.**
+  - **Enter valid personal data such as username, email, and password.**
+  - **Confirm that everything is filled out correctly.**
+  - **Click on the "Sign-up" button.**
+    
+- **Sign in**
+  - **Go to the login page.**
+  - **Enter the username and password.**
+  - **Confirm that everything is filled in correctly.**
+  - **Click the "Sign in" button.**
+  - **Account Settings**
+    
+- **Add your first and last name and change your username**
+  - **Locate the "Account" button in the navbar.**
+  - **Click the account button.**
+  - **Go to the account page.**
+  - **Click the "Update Account" button.**
+  - **Add your first and last name and change your username.**
+  - **Add the password.**
+  - **Confirm that everything is filled in correctly.**
+  - **Click the "Update User" button.**
+  - **Product Search**
+    
+- **Search for a product via the search bar (text input)**
+  - **Locate the "Products" button in the navbar.**
+  - **Locate the search bar.**
+  - **Insert the word "drone" into it.**
+  - **Click on the search button.**
+  - **Purchase a Product**
+    
+- **Buy an iPhone 14 Pro Max 128GB Deep Purple**
+  - **Search for the product "iPhone 14 Pro Max 128GB Deep Purple" in the search bar or search for the word "iPhone" in the categories.**
+  - **Add the product to the cart.**
+  - **Locate the "Cart" button in the navbar.**
+  - **Click the "Check out" button.**
+  - **Select the payment method.**
+  - **Fill out the form with your card details and personal details.**
+  - **Confirm that everything is filled out correctly.**
+  - **Click on the "Buy" button.**
+    
+- **Add a review about TechIST website**
+  - **Go to the home page.**
+  - **Locate the "Add a review" form at the bottom of the page.**
+  - **Fill out the form.**
+  - **Confirm that everything is filled out correctly.**
+  - **Click the "Add" button.**
+
+- **Logout**
+  - **Locate the "Logout" button in the navbar.**
+  - **Click the "Logout" button.**
 
 ### Examples
 
