@@ -17,6 +17,9 @@ Repository containing all the development work and additional documentation that
   - [Examples](#examples)
 - [Usability Tests](#usability-tests)
   - [Consent performed on Google Forms](#consent-performed-on-google-forms)
+- [Predictive Evaluation](#predictive-evaluation)
+  - [GOMS](#goms)
+  - [KLM](#klm)
 - [The Emotionality Tool](#the-emotionality-tool)
   - [Emotinality functional requirements](#emotinality-functional-requirements)
     - [Common to All Stakeholders](#common-to-all-stakeholders)
@@ -307,6 +310,35 @@ These entities collectively form the structure of the system's database, facilit
 <img src="Images/CONCLUSIONS_WEBSITE/google_forms2.png" alt="" width="30%">
 <img src="Images/CONCLUSIONS_WEBSITE/google_forms3.png" alt="" width="30%">
 
+## Predictive Evaluation
+Predictive evaluation is a valuable approach to assessing an interface's usability even before its actual implementation. This evaluation method does not require user involvement and is particularly suitable for systems with well-defined and predictable tasks. It relies on psychological principles and experimental techniques to achieve its objectives. The process involves two main phases.
+
+Initially, the sequence and individual steps of the tasks are identified and documented. Subsequently, a thorough analysis of these steps is conducted to determine various usability measures. These measures include identifying potential error-prone steps within the task sequence and estimating the time required to complete each step successfully (gonccalves2017introduccao, ribeiro2019usability).
+
+### GOMS
+The GOMS (Goals, Operators, Methods, and Selection Rules) model, developed john1995goms, is a valuable framework for analyzing user-system interaction complexity. The model adopts a "divide and conquer" approach, where users accomplish goals by tackling sub-goals. The term \ac{GOMS} is an abbreviation for four key components: Goals, Operators, Methods, and Selection Rules.
+
+Goals represent the desired outcomes that users aim to achieve within the system. Operators refer to the cognitive processes and physical actions that users perform to accomplish these goals. Methods comprise sequences of steps required to reach a goal or sub-goal. Selection Rules come into play when multiple methods are available for achieving a particular goal, guiding the decision-making process to determine the most appropriate method to employ (gonccalves2017introduccao, rosyidah2019usability).
+### KLM 
+The KLM, developed by the same authors as the GOMS model mentioned earlier, is a valuable tool for estimating task execution time. This model takes into account the expertise of evaluators and breaks down the execution phase into six distinct operators: five physical-motor operators and one mental operator. Additionally, it includes an operator related to the system's response time capability (gonccalves2017introduccao)
+
+The KLM provides a structured approach for evaluating the time required to perform specific tasks by considering the physical and cognitive actions involved. By analyzing the sequence of operators and their associated time values, the model allows for the estimation of task completion time and facilitates the identification of potential bottlenecks or areas for improvement in interface design and interaction flow (gonccalves2017introduccao).
+
+References
+
+gonccalves2017introduccao: D Gonc ̧alves, MJ Fonseca, and P Campos. Introduc ̧  ̃ao ao design de interfaces. Lisboa: FCA-
+Editora de Inform  ́atica, Ltda, 2017
+
+ribeiro2019usability: Rafael Fontinele Ribeiro, Matheus de Meneses Campanh  ̃a Souza, Pedro Almir Martins
+de Oliveira, and Pedro de Alc ˆantara dos Santos Neto. Usability problems discovery based on
+the automatic detection of usability smells. In Proceedings of the 34th ACM/SIGAPP Symposium
+on Applied Computing, pages 2328–2335, 2019.
+
+john1995goms: Bonnie John. Why goms? interactions, 2(4):80–89, 1995 
+
+rosyidah2019usability: Umi Rosyidah, Hanny Haryanto, and Acun Kardianawati. Usability evaluation using goms model
+for education game “play and learn english”. In 2019 International Seminar on Application for
+Technology of Information and Communication (iSemantic), pages 1–5. IEEE, 2019.
 
 ## The Emotionality Tool
 
