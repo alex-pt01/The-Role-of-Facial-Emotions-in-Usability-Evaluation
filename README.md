@@ -324,19 +324,19 @@ The KLM, developed by the same authors as the GOMS model mentioned earlier, is a
 
 The KLM provides a structured approach for evaluating the time required to perform specific tasks by considering the physical and cognitive actions involved. By analyzing the sequence of operators and their associated time values, the model allows for the estimation of task completion time and facilitates the identification of potential bottlenecks or areas for improvement in interface design and interaction flow (gonccalves2017introduccao).
 
-References
+**References**
 
-gonccalves2017introduccao: D Gonc ̧alves, MJ Fonseca, and P Campos. Introduc ̧  ̃ao ao design de interfaces. Lisboa: FCA-
+**gonccalves2017introduccao:** D Gonc ̧alves, MJ Fonseca, and P Campos. Introduc ̧  ̃ao ao design de interfaces. Lisboa: FCA-
 Editora de Inform  ́atica, Ltda, 2017
 
-ribeiro2019usability: Rafael Fontinele Ribeiro, Matheus de Meneses Campanh  ̃a Souza, Pedro Almir Martins
+**ribeiro2019usability:** Rafael Fontinele Ribeiro, Matheus de Meneses Campanh  ̃a Souza, Pedro Almir Martins
 de Oliveira, and Pedro de Alc ˆantara dos Santos Neto. Usability problems discovery based on
 the automatic detection of usability smells. In Proceedings of the 34th ACM/SIGAPP Symposium
 on Applied Computing, pages 2328–2335, 2019.
 
-john1995goms: Bonnie John. Why goms? interactions, 2(4):80–89, 1995 
+**john1995goms:** Bonnie John. Why goms? interactions, 2(4):80–89, 1995 
 
-rosyidah2019usability: Umi Rosyidah, Hanny Haryanto, and Acun Kardianawati. Usability evaluation using goms model
+**rosyidah2019usability:** Umi Rosyidah, Hanny Haryanto, and Acun Kardianawati. Usability evaluation using goms model
 for education game “play and learn english”. In 2019 International Seminar on Application for
 Technology of Information and Communication (iSemantic), pages 1–5. IEEE, 2019.
 
