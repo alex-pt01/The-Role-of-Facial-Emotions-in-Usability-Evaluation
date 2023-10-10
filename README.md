@@ -165,6 +165,11 @@ The database consists of the following entities:
 
 These entities collectively form the structure of the system's database, facilitating the organization and management of data for the user testing website.
 
+**Database**
+
+<img src="Images/user_testing_website_database.png" alt="" width="50%">
+
+
 ### Usability Testing Tasks
 
 - **Sign up on the TechIST website**
@@ -470,6 +475,9 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 - **UsabilityEval_CW_Smells_without_Emotion:** A model representing the results of a usability evaluation of the subtask without considering emotions. It includes a reference to the corresponding subtask, the team member who conducted the evaluation, and the evaluation results, including answers to questions and selected usability smells.
 - **ResultsConsolidation:** A model representing the consolidation of all results from CW and Usability Smells evaluations, both with and without emotions.
 
+**Database**
+
+<img src="Imagesemotionality_database.png" alt="" width="50%">
 
 ## Stakeholders common views**
 
