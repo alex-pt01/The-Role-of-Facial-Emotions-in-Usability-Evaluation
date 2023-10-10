@@ -17,6 +17,8 @@ Repository containing all the development work and additional documentation that
   - [Examples](#examples)
 - [Usability Tests](#usability-tests)
   - [Consent performed on Google Forms](#consent-performed-on-google-forms)
+- [Inspection methods](#inspection-methods)
+  - [Semiotic Inspection Method](#semiotic-inspection-method)
 - [Predictive Evaluation](#predictive-evaluation)
   - [GOMS](#goms)
   - [KLM](#klm)
@@ -309,6 +311,23 @@ These entities collectively form the structure of the system's database, facilit
 <img src="Images/CONCLUSIONS_WEBSITE/google_forms1.png" alt="" width="30%">
 <img src="Images/CONCLUSIONS_WEBSITE/google_forms2.png" alt="" width="30%">
 <img src="Images/CONCLUSIONS_WEBSITE/google_forms3.png" alt="" width="30%">
+
+## Inspection methods
+
+### Semiotic Inspection Method
+
+Semiotic Inspection Method is a comprehensive usability evaluation approach that analyzes visual, textual, and interactive elements
+within interfaces, drawing from semiotic theory to assess signs, coherence, and consistency. It complements traditional usability evaluation techniques, providing insights into the symbolic aspects of user
+interfaces. When used alongside user testing, it offers a holistic understanding of how a system communicates with its users (BarbosaEtAl2021InteracaoHumanoComputadorExperiencia). This method involves a systematic process, including familiarization with the
+interface, element identification, semiotic analysis, user interpretation, issue identification, recommendations for improvement, and integration with other evaluation methods. Scrutinizing the meaning and
+communicative effectiveness of interface elements, helps detect and resolve usability issues, ultimately
+improving the user experience (BarbosaEtAl2021InteracaoHumanoComputadorExperiencia).
+
+**References**
+
+**BarbosaEtAl2021InteracaoHumanoComputadorExperiencia**: Simone Diniz Junqueira Barbosa, Bruno Santana da Silva, Milene Selbach Silveira, Isabela Gasparini, Ticianne Darin, and Gabriel Diniz Junqueira Barbosa. Intera¸c ao Humano-Computador e
+ExperienciadoUsu´ario.Autopublica¸c ao, 2021.
+
 
 ## Predictive Evaluation
 Predictive evaluation is a valuable approach to assessing an interface's usability even before its actual implementation. This evaluation method does not require user involvement and is particularly suitable for systems with well-defined and predictable tasks. It relies on psychological principles and experimental techniques to achieve its objectives. The process involves two main phases.
