@@ -477,7 +477,7 @@ The Emotionality Tool was developed to address the absence of a comprehensive an
 
 **Database**
 
-<img src="Imagesemotionality_database.png" alt="" width="50%">
+<img src="Images/emotionality_database.png" alt="" width="50%">
 
 ## Stakeholders common views**
 
