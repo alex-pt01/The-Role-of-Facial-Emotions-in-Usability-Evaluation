@@ -343,11 +343,16 @@ The User Experience Questionnaire (UEQ) offers a quick assessment of interactive
 **References**
 
 15: https://www.researchgate.net/publication/319394819_SUS_--_a_quick_and_dirty_usability_scale
+
 42: https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?1981936
 123: https://www.researchgate.net/publication/284738161_Davis'_Technology_Acceptance_Model_TAM_1989
+
 71: https://www.researchgate.net/publication/230786769_Psychometric_evaluation_of_an_after-scenario_questionnaire_for_computer_usability_studies_The_ASQ
+
 72: https://www.researchgate.net/publication/200085994_IBM_Computer_Usability_Satisfaction_Questionnaires_Psychometric_Evaluation_and_Instructions_for_Use
+
 69: https://www.researchgate.net/publication/221217803_Construction_and_Evaluation_of_a_User_Experience_Questionnaire
+
 117: https://uxpajournal.org/supr-q-a-comprehensive-measure-of-the-quality-of-the-website-user-experience/
 
 
