@@ -19,6 +19,7 @@ Repository containing all the development work and additional documentation that
   - [Consent performed on Google Forms](#consent-performed-on-google-forms)
 - [Inspection methods](#inspection-methods)
   - [Semiotic Inspection Method](#semiotic-inspection-method)
+- [Usability Questionnaires](#usability-questionnaires)
 - [Predictive Evaluation](#predictive-evaluation)
   - [GOMS](#goms)
   - [KLM](#klm)
@@ -332,6 +333,23 @@ improving the user experience (BarbosaEtAl2021InteracaoHumanoComputadorExperienc
 
 **BarbosaEtAl2021InteracaoHumanoComputadorExperiencia**: Simone Diniz Junqueira Barbosa, Bruno Santana da Silva, Milene Selbach Silveira, Isabela Gasparini, Ticianne Darin, and Gabriel Diniz Junqueira Barbosa. Intera¸c ao Humano-Computador e
 ExperienciadoUsu´ario.Autopublica¸c ao, 2021.
+
+## Usability Questionnaires
+Various questionnaires are essential for evaluating the usability of interfaces, each serving specific usability aspects. The System Usability Scale (SUS) offers a comprehensive view of overall system usability [15]. 
+The Single Ease Question (SEQ) directly measures user satisfaction with task completion [42]. The Technology Acceptance Model (TAM) assesses the acceptance of technology, considering its usefulness and ease of use [123].
+The After-Scenario Questionnaire (ASQ) gauges ease in completing tasks, time spent, and support received [71]. The Computer System Usability Questionnaire (CSUQ) provides a comprehensive evaluation of overall system usability [72].
+The User Experience Questionnaire (UEQ) offers a quick assessment of interactive systems [69]. The Standardized User Experience Percentile Rank Questionnaire (SUPR-Q) evaluates trust, credibility, usability perception, and website appearance [117].
+
+**References**
+
+15: https://www.researchgate.net/publication/319394819_SUS_--_a_quick_and_dirty_usability_scale
+42: https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?1981936
+123: https://www.researchgate.net/publication/284738161_Davis'_Technology_Acceptance_Model_TAM_1989
+71: https://www.researchgate.net/publication/230786769_Psychometric_evaluation_of_an_after-scenario_questionnaire_for_computer_usability_studies_The_ASQ
+72: https://www.researchgate.net/publication/200085994_IBM_Computer_Usability_Satisfaction_Questionnaires_Psychometric_Evaluation_and_Instructions_for_Use
+69: https://www.researchgate.net/publication/221217803_Construction_and_Evaluation_of_a_User_Experience_Questionnaire
+117: https://uxpajournal.org/supr-q-a-comprehensive-measure-of-the-quality-of-the-website-user-experience/
+
 
 
 ## Predictive Evaluation
